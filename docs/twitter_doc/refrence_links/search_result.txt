@@ -1,0 +1,142 @@
+﻿{
+  "has_mdia": true,
+  "results": [
+    {
+      "special_properties": [
+        {
+          "sub_type": 2,
+          "type": 0
+        },
+        {
+          "screen_name": "ChampionsLeague",
+          "type": 5
+        },
+        {
+          "location": "Nyon, Vaud",
+          "type": 8
+        },
+        {
+          "protected": false,
+          "type": 0
+        },
+        {
+          "verified": true,
+          "type": 0
+        },
+        {
+          "followers_count": 22201229,
+          "type": 0
+        },
+        {
+          "friends_count": 493,
+          "type": 0
+        },
+        {
+          "listed_count": 19482,
+          "type": 0
+        },
+        {
+          "favourites_count": 1277,
+          "type": 0
+        },
+        {
+          "statuses_count": 57316,
+          "type": 0
+        },
+        {
+          "type": 0,
+          "created_at": "Thu Jul 05 19:43:40 +0000 2012"
+        },
+        {
+          "type": 0,
+          "geo_enabled": false
+        },
+        {
+          "type": 11,
+          "lang": "en"
+        },
+        {
+          "contributors_enabled": false,
+          "type": 0
+        },
+        {
+          "more": {
+            "url": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "ref": "https://twitter.com/ChampionsLeague",
+            "file_name": "d93057254799b0289e91282a8a0bf8417a2158c83a088c4739cd3f240f71c825"
+          },
+          "type": 13,
+          "profile_background_image_url": "/home/dpe/F.SystemAPI.01//modules/storage/4db4c94086de45fc8c039cba3e09372e/d93057254799b0289e91282a8a0bf8417a2158c83a088c4739cd3f240f71c825.jpg"
+        },
+        {
+          "profile_background_image_url_thumbnail": "/home/dpe/F.SystemAPI.01//modules/storage/4db4c94086de45fc8c039cba3e09372e/thumbnail/d93057254799b0289e91282a8a0bf8417a2158c83a088c4739cd3f240f71c825.jpg",
+          "type": 13,
+          "more": {
+            "url": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "ref": "https://twitter.com/ChampionsLeague",
+            "file_name": "d93057254799b0289e91282a8a0bf8417a2158c83a088c4739cd3f240f71c825"
+          }
+        },
+        {
+          "profile_banner_url": "/home/dpe/F.SystemAPI.01//modules/storage/4db4c94086de45fc8c039cba3e09372e/d93057254799b0289e91282a8a0bf8418db504bff5df5a137a0182cc218b5b4c.jpg",
+          "type": 13,
+          "more": {
+            "url": "https://pbs.twimg.com/profile_banners/627673190/1528721979",
+            "ref": "https://twitter.com/ChampionsLeague",
+            "file_name": "d93057254799b0289e91282a8a0bf8418db504bff5df5a137a0182cc218b5b4c"
+          }
+        },
+        {
+          "profile_banner_url_thumbnail": "/home/dpe/F.SystemAPI.01//modules/storage/4db4c94086de45fc8c039cba3e09372e/thumbnail/d93057254799b0289e91282a8a0bf8418db504bff5df5a137a0182cc218b5b4c.jpg",
+          "type": 13,
+          "more": {
+            "url": "https://pbs.twimg.com/profile_banners/627673190/1528721979",
+            "ref": "https://twitter.com/ChampionsLeague",
+            "file_name": "d93057254799b0289e91282a8a0bf8418db504bff5df5a137a0182cc218b5b4c"
+          }
+        },
+        {
+          "more": {
+            "url": "https://pbs.twimg.com/profile_images/1006159252963110912/cGjCZY7N_normal.jpg",
+            "ref": "https://twitter.com/ChampionsLeague",
+            "file_name": "d93057254799b0289e91282a8a0bf841cf982a882f20541da9bd0b4d1513301f"
+          },
+          "type": 13,
+          "profile_image_url": "/home/dpe/F.SystemAPI.01//modules/storage/4db4c94086de45fc8c039cba3e09372e/d93057254799b0289e91282a8a0bf841cf982a882f20541da9bd0b4d1513301f.jpg"
+        },
+        {
+          "more": {
+            "url": "https://pbs.twimg.com/profile_images/1006159252963110912/cGjCZY7N_normal.jpg",
+            "ref": "https://twitter.com/ChampionsLeague",
+            "file_name": "d93057254799b0289e91282a8a0bf841cf982a882f20541da9bd0b4d1513301f"
+          },
+          "type": 13,
+          "profile_image_url_thumbnail": "/home/dpe/F.SystemAPI.01//modules/storage/4db4c94086de45fc8c039cba3e09372e/thumbnail/d93057254799b0289e91282a8a0bf841cf982a882f20541da9bd0b4d1513301f.jpg"
+        }
+      ],
+      "data": "ChampionsLeague",
+      "type": 5,
+      "properties": [
+        {
+          "name": "UEFA Champions League",
+          "type": 11
+        },
+        {
+          "description": "#UCL \nSpanish: @LigadeCampeones U19: @UEFAYouthLeague YouTube: https://t.co/V3LrHK72IR",
+          "type": 0
+        },
+        {
+          "url": [
+            {
+              "title": ""
+            },
+            {
+              "title": "https://t.co/3hpwL69z2B"
+            }
+          ],
+          "type": 1
+        }
+      ]
+    }
+  ]
+}

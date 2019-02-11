@@ -1,0 +1,11 @@
+{
+"results": [
+{
+"data": "decoded hash",
+"type": 7
+}
+]
+"properties": [
+{}
+]
+}

@@ -1,0 +1,18 @@
+{
+  "results": [
+    {
+      "ref": {
+        "task": "crawl",
+        "depth": 1
+      },
+      "data": "/home/dpe/PycharmProjects/F.SystemAPI.01/modules/crawler/storage/2018-07-18/4c792277-16f5-4496-b629-270a1a15dda7.html",
+      "type": 9,
+      "properties": [
+        {
+          "type": 1,
+          "url": "http://wwww.blogfa.com/"
+        }
+      ]
+    }
+  ]
+}

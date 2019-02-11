@@ -1,0 +1,242 @@
+[
+  {
+    'data': 'https://twitter.com/realdonaldtrump',
+    'type': '1',
+    'properties': {
+      'description': '37.1K tweets • 2538 photos/videos • 48.5M followers. Check out the latest Tweets \nfrom Donald J. Trump (@realDonaldTrump)',
+      'title': 'Donald J. Trump (@realDonaldTrump) | Twitter'
+    }
+  },
+  {
+    'data': 'http://www.donaldjtrump.com/',
+    'type': '1',
+    'properties': {
+      'description': 'Help continue our promise to Make America Great Again!',
+      'title': 'Donald J Trump: Home'
+    }
+  },
+  {
+    'data': 'https://twitter.com/hashtag/trump',
+    'type': '1',
+    'properties': {
+      'description': '49m ago @CharlyTheBeagle tweeted: "If the #NYTimes story is true it is time.." - \nread what others are saying and join the conversation.',
+      'title': 'News about #trump on Twitter'
+    }
+  },
+  {
+    'data': 'https://en.wikipedia.org/wiki/Donald_Trump',
+    'type': '1',
+    'properties': {
+      'description': 'Donald John Trump (born June 14, 1946) is the 45th and current President of the \nUnited States, in office since January 20, 2017. Before entering politics, he was a \nbusinessman and television personality. Trump was born and raised in Queens, \nNew York City, and earned an economics degree from the Wharton School of\xa0...',
+      'title': 'Donald Trump - Wikipedia'
+    }
+  },
+  {
+    'data': 'https://www.cnbc.com/donald-trump/',
+    'type': '1',
+    'properties': {
+      'description': "MEXICO CITY, March 4- An influential U.S. lawmaker said on Sunday all fairly \ntraded steel and aluminum, especially from Canada and Mexico, should be \nexcluded from President Donald Trump's proposed tariffs, as he sought to calm \ntensions at major trade talks in Mexico. House of Representatives Ways and \nMeans\xa0...",
+      'title': 'Donald Trump - CNBC'
+    }
+  },
+  {
+    'data': 'https://www.trump.com/',
+    'type': '1',
+    'properties': {
+      'description': 'Trump Luxury Real Estate redefines what is meant by luxury living, built to be the \nabsolute best in the world.',
+      'title': 'The Trump Organization'
+    }
+  },
+  {
+    'data': 'https://www.washingtontimes.com/topics/donald-trump/',
+    'type': '1',
+    'properties': {
+      'description': 'Latest news and commentary on Donald Trump including photos, videos, \nquotations, and a biography.',
+      'title': 'Donald Trump - Bio, News, Photos - Washington Times'
+    }
+  },
+  {
+    'data': 'http://www.chicagotribune.com/topic/politics-government/donald-trump-PEBSL000163-topic.html',
+    'type': '1',
+    'properties': {
+      'description': "3 days ago ... If you can overlook the intermittently running water, Friday's four-hour power \noutage and occasional police presence in the lobby, the Trump hotel in Panama \nCity retains its status as one of the city's finest. The hotel remains open for \nbusiness against a backdrop of service interruptions, bad press and a fight\xa0...",
+      'title': 'Donald Trump Articles, Photos, and Videos - Chicago Tribune'
+    }
+  },
+  {
+    'data': 'http://thehill.com/people/donald-trump',
+    'type': '1',
+    'properties': {
+      'description': 'President of the United States, 2017 - PresentThe Trump Organization, Founder/\nChair/President/Chief Executive Officer, 1975 - PresentThe Apprentice, Executive \nProducer, 2003 - 2015.',
+      'title': 'Donald John Trump | TheHill'
+    }
+  },
+  {
+    'data': 'https://www.nytimes.com/2018/02/22/us/politics/trump-guns-school-shootings.html',
+    'type': '1',
+    'properties': {
+      'description': 'Feb 22, 2018 ... WASHINGTON — President Trump on Thursday enthusiastically embraced a \nNational Rifle Association position to arm highly trained teachers to fortify schools \nagainst mass shootings like the one last week. Mr. Trump, who said the armed \nteachers should receive extra pay as an incentive, promoted his\xa0...',
+      'title': "Trump Suggests Teachers Get a 'Bit of a Bonus' to Carry Guns - The ..."
+    }
+  },
+  {
+    'data': 'http://www.latimes.com/topic/politics-government/donald-trump-PEBSL000163-topic.html',
+    'type': '1',
+    'properties': {
+      'description': "Trump may find himself in legal trouble, but not because of collusion with Russia. \nReaders React. Trump may find himself in legal trouble, but not because of \ncollusion with Russia. Feb 24, 2018. Donald Trump Jr.'s India visit raised ethical \nquestions. It also helped him. Asia · Donald Trump Jr.'s India visit raised ethical\xa0...",
+      'title': 'Donald Trump'
+    }
+  },
+  {
+    'data': 'https://www.nytimes.com/2018/03/01/business/trump-tariffs.html',
+    'type': '1',
+    'properties': {
+      'description': "3 days ago ... WASHINGTON — President Trump said on Thursday that he would impose stiff \ntariffs on imports of steel and aluminum, making good on a key campaign \npromise and rattling stock markets as the prospect of a global trade fight \nappeared imminent. (You can read more about Friday's developments here.).",
+      'title': 'Trump to Impose Sweeping Steel and Aluminum Tariffs - The New ...'
+    }
+  },
+  {
+    'data': 'http://www.dailymail.co.uk/news/donald_trump/index.html',
+    'type': '1',
+    'properties': {
+      'description': "Latest news on Donald Trump's Twitter updates, North Korea conflict and Russia \nties plus more on Trump's wife Melania, travel ban and fake news claims.",
+      'title': 'Trump News, Twitter Updates and Latest Headlines | Daily Mail Online'
+    }
+  },
+  {
+    'data': 'https://www.huffingtonpost.com/topic/donald-trump',
+    'type': '1',
+    'properties': {
+      'description': 'Catch up on the latest news on Donald Trump. Including photos, videos and \ntweets.',
+      'title': 'Donald Trump | HuffPost'
+    }
+  },
+  {
+    'data': 'https://www.youtube.com/channel/UCsQnAt5I56M-qx4OgCoVmeA',
+    'type': '1',
+    'properties': {
+      'description': 'Trump puts his namesake to the test by strategizing, being ruthlessly efficient, \nmaking value plays and thus trumping the competition! By optimizing and push...',
+      'title': 'Trump - YouTube'
+    }
+  },
+  {
+    'data': 'http://www.latimes.com/projects/la-na-all-things-trump',
+    'type': '1',
+    'properties': {
+      'description': "Few took Donald Trump's campaign seriously when he started running for \npresident, but the brash New York businessman bulldozed his way past every \nrival for the GOP nomination. On Nov. 8, 2016, he was elected the 45th president \nof the United States. All things Clinton.",
+      'title': 'All things Trump - Los Angeles Times'
+    }
+  },
+  {
+    'data': 'https://www.wsj.com/articles/trumps-tariff-folly-1519950205',
+    'type': '1',
+    'properties': {
+      'description': "3 days ago ... Donald Trump made the biggest policy blunder of his Presidency Thursday by \nannouncing that next week he'll impose tariffs of 25% on imported steel and 10% \non aluminum. This tax increase will punish American workers, invite retaliation \nthat will harm U.S. exports, divide his political coalition at home,\xa0...",
+      'title': "Trump's Tariff Folly - WSJ"
+    }
+  },
+  {
+    'data': 'https://www.newyorker.com/news/news-desk/donald-trump-a-playboy-model-and-a-system-for-concealing-infidelity-national-enquirer-karen-mcdougal',
+    'type': '1',
+    'properties': {
+      'description': 'Feb 16, 2018 ... Ronan McDougal on an affair between Donald Trump and the Playboy Playmate \nKaren McDougal that was concealed following a financial deal involving \nAmerican Media, Inc., and the National Enquirer.',
+      'title': 'Donald Trump, the Playboy Model Karen McDougal, and a System ...'
+    }
+  },
+  {
+    'data': 'https://www.facebook.com/DonaldTrump/',
+    'type': '1',
+    'properties': {
+      'description': 'Donald J. Trump, New York, NY. 23133671 likes · 643078 talking about this. This \nis the official Facebook page for Donald J. Trump.',
+      'title': 'Donald J. Trump - Home | Facebook'
+    }
+  },
+  {
+    'data': 'https://www.aljazeera.com/topics/people/donald-trump.html',
+    'type': '1',
+    'properties': {
+      'description': "Top aide Hope Hicks to leave White House. Trump's communications director \nand confidante, Hope Hicks announces resignation, a day after Russia meddling \nhearing. Hope Hicks, Trump's top aide, to leave White House. Donald Trump 28 \nFebruary 2018\xa0...",
+      'title': 'Donald Trump News – the latest from Al Jazeera'
+    }
+  },
+  {
+    'data': 'https://www.cnn.com/2018/02/21/politics/trump-listening-sessions-parkland-students/index.html',
+    'type': '1',
+    'properties': {
+      'description': 'Feb 22, 2018 ... President Donald Trump, after listening to a series of emotional stories and pleas \nto enhance school safety at the White House Wednesday, floated the idea of \narming teachers and school staff, an idea that was met with support from many of \nthe attendees.',
+      'title': 'Trump suggests arming teachers as a solution to increase school ...'
+    }
+  },
+  {
+    'data': 'https://www.washingtonpost.com/world/national-security/trump-asked-the-acting-fbi-director-whom-he-voted-for-during-oval-office-meeting/2018/01/23/2cb50818-0073-11e8-8acf-ad2991367d9d_story.html',
+    'type': '1',
+    'properties': {
+      'description': "Jan 23, 2018 ... Shortly after President Trump fired his FBI director in May, he summoned to the \nOval Office the bureau's acting director for a get-to-know-you meeting. The two \nmen exchanged pleasantries, but before long, Trump, according to several \ncurrent and former U.S. officials, asked Andrew McCabe a pointed\xa0...",
+      'title': 'Trump asked the acting FBI director how he voted during Oval Office ...'
+    }
+  },
+  {
+    'data': 'https://www.cnn.com/specials/politics/president-donald-trump-45',
+    'type': '1',
+    'properties': {
+      'description': 'The latest news on President Donald Trump, the White House and the first family.',
+      'title': 'Donald Trump News - CNNPolitics'
+    }
+  },
+  {
+    'data': 'https://www.bloomberg.com/billionaires/profiles/donald-j-trump/',
+    'type': '1',
+    'properties': {
+      'description': "Trump is president of the United States. He's also founder of the Trump \nOrganization, a real estate conglomerate and licensing business that owns office \nand retail space in the U.S. Among its properties: New York's 40 Wall St. and 555 \nCalifornia St. in San Francisco. It also owns stakes in condo buildings, hotels and \ngolf\xa0...",
+      'title': 'Bloomberg Billionaires Index - Donald Trump'
+    }
+  },
+  {
+    'data': 'https://www.theatlantic.com/health/archive/2018/01/trump-cog-decline/548759/',
+    'type': '1',
+    'properties': {
+      'description': "Jan 3, 2018 ... Trump's grandiosity and impulsivity has made him a constant subject of \nspeculation among those concerned with his mental health. But after more than a \nyear of talking to doctors and researchers about whether and how the cognitive \nsciences could offer a lens to explain Trump's behavior, I've come to\xa0...",
+      'title': 'Is There Something Neurologically Wrong With Donald Trump ...'
+    }
+  },
+  {
+    'data': 'https://www.ecowatch.com/Trump-Watch/',
+    'type': '1',
+    'properties': {
+      'description': 'Drilling and Mining Interests Pushed to Shrink Utah National Monuments, \nDocuments Reveal. 02 March. Lorraine Chow · Trump Watch · EPA Moves to \nOverhaul Obama-Era Coal Ash Disposal Rule. 02 March. Lorraine Chow · Trump \nWatch · Scott Pruitt Voted Worst Trump Minion, Ryan Zinke Runner-Up. 01 March.',
+      'title': 'EcoWatch - Trump Watch'
+    }
+  },
+  {
+    'data': 'https://www.wired.com/story/how-trump-conquered-facebookwithout-russian-ads/',
+    'type': '1',
+    'properties': {
+      'description': "Feb 23, 2018 ... WIRED contributor Antonio García Martínez on why Russia's Facebook ads were \nless important to Trump's victory than his own Facebook ads.",
+      'title': 'How Trump Conquered Facebook Without Russian Ads | WIRED'
+    }
+  },
+  {
+    'data': 'https://www.npr.org/2018/03/01/589684523/fact-check-trumps-meeting-with-lawmakers-about-gun-policy',
+    'type': '1',
+    'properties': {
+      'description': '3 days ago ... President Trump hosted lawmakers from both parties to discuss gun policy and \nschool safety on Wednesday. During the freewheeling meeting, Trump appeared \nto support a number of conflicting measures and showed naivete about the \nlegislative process. NPR journalists have annotated a transcript of the\xa0...',
+      'title': "Fact Check And Full Text: Trump's Meeting With Lawmakers About ..."
+    }
+  },
+  {
+    'data': 'http://money.cnn.com/2018/03/01/news/economy/trump-steel-aluminum-trade/index.html',
+    'type': '1',
+    'properties': {
+      'description': '3 days ago ... President Trump could announce as soon as Thursday tariffs or quotas on \nimported steel. The two cases represent a key campaign promise for Trump, and \nraise fears of a trade war for many Americans.',
+      'title': "Trump's new tariffs could make beer, cars and baseball bats more ..."
+    }
+  },
+  {
+    'data': 'https://www.twitch.tv/trumpsc',
+    'type': '1',
+    'properties': {
+      'description': "BrowseGet DesktopTry PrimeStore. Search. Top Results. No results found. They'\nre probably in another castle. Prime Loot. Log in. Sign up. ESL_CSGO · BROBQ · \nESL_SC2 · AimzAtchu · ESL_CSGOb. TrumpSC. Verified. Videos. 179 · Clips · \nCollections · Events · Followers. 822,427 · Following. 142 · Videos. 179 · Clips.",
+      'title': 'TrumpSC - Twitch'
+    }
+  }
+]

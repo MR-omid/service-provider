@@ -1,0 +1,165 @@
+﻿{
+  "has_media": true,
+  "special_properties": [
+    {
+      "sub_type": 2,
+      "type": 0
+    },
+    {
+      "screen_name": "Football",
+      "type": 5
+    },
+    {
+      "location": "UK",
+      "type": 8
+    },
+    {
+      "protected": false,
+      "type": 0
+    },
+    {
+      "verified": false,
+      "type": 0
+    },
+    {
+      "followers_count": 65469,
+      "type": 0
+    },
+    {
+      "friends_count": 71,
+      "type": 0
+    },
+    {
+      "listed_count": 494,
+      "type": 0
+    },
+    {
+      "favourites_count": 391,
+      "type": 0
+    },
+    {
+      "statuses_count": 6074,
+      "type": 0
+    },
+    {
+      "type": 0,
+      "created_at": "Mon Mar 26 23:04:56 +0000 2007"
+    },
+    {
+      "type": 0,
+      "geo_enabled": false
+    },
+    {
+      "type": 11,
+      "lang": "en"
+    },
+    {
+      "contributors_enabled": false,
+      "type": 0
+    },
+    {
+      "more": {
+        "url": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "ref": "https://twitter.com/Football",
+        "file_name": "449a5f6d01d5f416810d04b4df596b6af464c1587f7d3b17a8d0666807dfea78"
+      },
+      "type": 13,
+      "profile_background_image_url": "/home/dpe/F.SystemAPI.01//modules/storage/255370e110f744a78a4679124468d51b/449a5f6d01d5f416810d04b4df596b6af464c1587f7d3b17a8d0666807dfea78.jpg"
+    },
+    {
+      "profile_background_image_url_thumbnail": "/home/dpe/F.SystemAPI.01//modules/storage/255370e110f744a78a4679124468d51b/thumbnail/449a5f6d01d5f416810d04b4df596b6af464c1587f7d3b17a8d0666807dfea78.jpg",
+      "type": 13,
+      "more": {
+        "url": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "ref": "https://twitter.com/Football",
+        "file_name": "449a5f6d01d5f416810d04b4df596b6af464c1587f7d3b17a8d0666807dfea78"
+      }
+    },
+    {
+      "profile_banner_url": "/home/dpe/F.SystemAPI.01//modules/storage/255370e110f744a78a4679124468d51b/449a5f6d01d5f416810d04b4df596b6a92e865da3393cff7bcfefdd8d41b3817.jpg",
+      "type": 13,
+      "more": {
+        "url": "https://pbs.twimg.com/profile_banners/2371041/1446652671",
+        "ref": "https://twitter.com/Football",
+        "file_name": "449a5f6d01d5f416810d04b4df596b6a92e865da3393cff7bcfefdd8d41b3817"
+      }
+    },
+    {
+      "profile_banner_url_thumbnail": "/home/dpe/F.SystemAPI.01//modules/storage/255370e110f744a78a4679124468d51b/thumbnail/449a5f6d01d5f416810d04b4df596b6a92e865da3393cff7bcfefdd8d41b3817.jpg",
+      "type": 13,
+      "more": {
+        "url": "https://pbs.twimg.com/profile_banners/2371041/1446652671",
+        "ref": "https://twitter.com/Football",
+        "file_name": "449a5f6d01d5f416810d04b4df596b6a92e865da3393cff7bcfefdd8d41b3817"
+      }
+    },
+    {
+      "more": {
+        "url": "https://pbs.twimg.com/profile_images/661935607548088320/Uk868diV_normal.png",
+        "ref": "https://twitter.com/Football",
+        "file_name": "449a5f6d01d5f416810d04b4df596b6a8f19562bce4892d39578d8b9d29aacaf"
+      },
+      "type": 13,
+      "profile_image_url": "/home/dpe/F.SystemAPI.01//modules/storage/255370e110f744a78a4679124468d51b/449a5f6d01d5f416810d04b4df596b6a8f19562bce4892d39578d8b9d29aacaf.jpg"
+    },
+    {
+      "more": {
+        "url": "https://pbs.twimg.com/profile_images/661935607548088320/Uk868diV_normal.png",
+        "ref": "https://twitter.com/Football",
+        "file_name": "449a5f6d01d5f416810d04b4df596b6a8f19562bce4892d39578d8b9d29aacaf"
+      },
+      "type": 13,
+      "profile_image_url_thumbnail": "/home/dpe/F.SystemAPI.01//modules/storage/255370e110f744a78a4679124468d51b/thumbnail/449a5f6d01d5f416810d04b4df596b6a8f19562bce4892d39578d8b9d29aacaf.jpg"
+    }
+  ],
+  "results": [
+    {
+      "data": "Football",
+      "type": 5,
+      "ref": {
+        "section": "screen_name",
+        "task": "twitter_profile",
+        "twitter_account": "football"
+      }
+    },
+    {
+      "data": "UK",
+      "type": 8,
+      "ref": {
+        "section": "location",
+        "task": "twitter_profile",
+        "twitter_account": "football"
+      }
+    },
+    {
+      "data": "Football",
+      "type": 11,
+      "ref": {
+        "section": "name",
+        "task": "twitter_profile",
+        "twitter_account": "football"
+      }
+    }
+  ],
+  "properties": [
+    {
+      "name": "Football",
+      "type": 11
+    },
+    {
+      "description": "The #1 Source for everything Football",
+      "type": 0
+    },
+    {
+      "url": [
+        {
+          "title": ""
+        },
+        {
+          "title": null
+        }
+      ],
+      "type": 1
+    }
+  ]
+}

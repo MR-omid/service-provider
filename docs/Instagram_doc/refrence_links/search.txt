@@ -1,0 +1,42 @@
+﻿{
+  "results": 
+    [{
+      "data": “username”,
+      "special_properties": [
+        {
+          "sub_type": 3,
+          "type": 0
+        },
+        {
+          "is_verified": "",
+          "type": 0
+        },
+        {
+          "is_private": "",
+          "type": 0
+        },
+        {
+          "reel_auto_archive": "",
+          "type": 0
+        },
+        {
+          "pk": "",
+          "type": 0
+        },
+
+      ],
+      "type": 5,
+      "properties": [
+        {
+          "profile_pic_url": "",
+          "type": 1
+          },
+        },
+        {
+          "full_name": "",
+          "type": 11
+        }
+      ]
+    }
+  ]
+}

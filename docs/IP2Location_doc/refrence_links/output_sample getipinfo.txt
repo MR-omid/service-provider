@@ -1,0 +1,85 @@
+{
+  "special_properties": [
+    {
+      "mnc": "03/11",
+      "type": 0
+    },
+    {
+      "isp": "ChinaNet Hubei Province Network",
+      "type": 11
+    },
+    {
+      "type": 0,
+      "idd_code": "86"
+    },
+
+    {
+      "type": 0,
+      "time_zone": "+08:00"
+    },
+
+    {
+      "elevation": "49",
+      "type": 0
+    },
+    {
+      "mcc": "460",
+      "type": 0
+    },
+
+    {
+      "type": 0,
+      "usage_type_desc": [
+        "Fixed Line ISP",
+        "Mobile ISP"
+      ]
+    },
+    {
+      "type": 0,
+      "area_code": "0712"
+    },
+    {
+      "domain": "chinatelecom.com.cn",
+      "type": 12
+    },
+    {
+      "region_name": "Hubei",
+      "type": 11
+    },
+    {
+      "zip_code": "432600",
+      "type": 0
+    },
+    {
+      "mobile_brand": "China Telecom",
+      "type": 11
+    },
+
+    {
+      "type": 0,
+      "net_speed": "DSL"
+    }
+  ],
+  "properties": [    {
+      "latitude": "31.2575",
+      "type": 0
+    },
+    {
+      "country_name": "China",
+      "type": 11
+    },
+    {
+      "type": 0,
+      "longitude": "113.67833"
+    },
+    {
+      "type": 11,
+      "city_name": "Anlu"
+    }
+   ],
+  "results": [    
+    {
+      "geo coordinates": "31.2575,113.67833",
+      "type": 14
+    }]
+}

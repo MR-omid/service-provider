@@ -1,0 +1,30 @@
+{
+"properties": [],
+"special_properties": [
+{
+"country_name": "countryName",
+"type": 11
+},
+{
+"region_name": "regionName",
+"type": 11
+},
+{
+"city_name": "cityName",
+"type": 11
+},
+{
+"isp": "isp",
+"type": 11
+},
+{
+"proxy_type_desc": "proxyType + Please Read Document",
+"type": 0
+},
+{
+"is_proxy": "isProxy",
+"type": 0
+}
+],
+"results": []
+}

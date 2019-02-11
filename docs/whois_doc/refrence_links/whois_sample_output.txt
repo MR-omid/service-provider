@@ -1,0 +1,251 @@
+
+{
+  "results": [
+    {
+      "type": 0,
+      "data": {
+        "registrant": {
+          "name": "Hamidreza Taherian",
+          "phone": "88926505",
+          "street": "No 48.9\nHosseini Rad St\nValiasr Ave. Tehran\nIRAN.",
+          "city": "Tehran",
+          "fax": "88926986",
+          "email": "hamid@radcom.co",
+          "type": "whois_contact_name",
+          "country": "IR"
+        },
+        "admin": {
+          "name": "Hamidreza Taherian",
+          "phone": "88926505",
+          "street": "No 48.9\nHosseini Rad St\nValiasr Ave. Tehran\nIRAN.",
+          "city": "Tehran",
+          "fax": "88926986",
+          "email": "hamid@radcom.co",
+          "type": "whois_contact_name",
+          "country": "IR"
+        },
+        "tech": {
+          "name": "Hamidreza Taherian",
+          "phone": "88926505",
+          "street": "No 48.9\nHosseini Rad St\nValiasr Ave. Tehran\nIRAN.",
+          "city": "Tehran",
+          "fax": "88926986",
+          "email": "hamid@radcom.co",
+          "type": "whois_contact_name",
+          "country": "IR"
+        }
+      },
+      "ref": {
+        "whois_from": "",
+        "whois_for": "time.ir",
+        "task": "whois"
+      }
+    },
+    {
+      "type": 2,
+      "properties": [
+        {
+          "type": 11,
+          "owner": "Hamidreza Taherian"
+        },
+        {
+          "type": 11,
+          "organization": ""
+        },
+        {
+          "type": 5,
+          "local_address": "hamid"
+        },
+        {
+          "type": 12,
+          "domain_name": "radcom.co"
+        }
+      ],
+      "ref": {
+        "whois_from": "",
+        "whois_for": "time.ir",
+        "label": "registrant_name",
+        "task": "whois"
+      },
+      "is_valid": true,
+      "special_properties": [
+        {
+          "type": 0,
+          "isvalid": true
+        }
+      ],
+      "data": "hamid@radcom.co"
+    },
+    {
+      "type": 4,
+      "properties": [
+        {
+          "type": 11,
+          "location": "Tehran"
+        },
+        {
+          "type": 11,
+          "owner": "Hamidreza Taherian"
+        }
+      ],
+      "ref": {
+        "whois_from": "",
+        "whois_for": "time.ir",
+        "task": "whois"
+      },
+      "special_properties": [
+        {
+          "type": 0,
+          "phone_type": ""
+        },
+        {
+          "country_code": "",
+          "type": 0
+        },
+        {
+          "type": 0,
+          "operator": ""
+        },
+        {
+          "type": 0,
+          "is_valid": ""
+        }
+      ],
+      "data": "88926505"
+    },
+    {
+      "type": 4,
+      "properties": [
+        {
+          "type": 11,
+          "owner": ""
+        },
+        {
+          "location": "",
+          "type": 11
+        }
+      ],
+      "ref": {
+        "whois_from": "",
+        "whois_for": "time.ir",
+        "task": "whois"
+      },
+      "special_properties": [
+        {
+          "type": 0,
+          "phone_type": ""
+        },
+        {
+          "country_code": "",
+          "type": 0
+        },
+        {
+          "type": 0,
+          "operator": ""
+        },
+        {
+          "type": 0,
+          "is_valid": ""
+        }
+      ],
+      "data": "88926986"
+    },
+    {
+      "type": 11,
+      "properties": [
+        {
+          "type": 4,
+          "fax": "88926986"
+        },
+        {
+          "type": 4,
+          "phone": "88926505"
+        },
+        {
+          "type": 11,
+          "country": "IR"
+        },
+        {
+          "type": 8,
+          "street": "No 48.9\nHosseini Rad St\nValiasr Ave. Tehran\nIRAN."
+        },
+        {
+          "city": "Tehran",
+          "type": 11
+        },
+        {
+          "email": "hamid@radcom.co",
+          "type": 2
+        }
+      ],
+      "ref": {
+        "whois_from": "",
+        "whois_for": "time.ir",
+        "task": "whois"
+      },
+      "special_properties": [
+        {
+          "type": 0,
+          "is_username": false
+        },
+        {
+          "type": 0,
+          "is_domain_name": false
+        },
+        {
+          "type": 0,
+          "is_public_name": false
+        },
+        {
+          "type": 0,
+          "is_account_name": false
+        }
+      ],
+      "data": "Hamidreza Taherian"
+    }
+  ],
+  "special_properties": [
+    {
+      "type": 0,
+      "valid": true
+    },
+    {
+      "type": 0,
+      "should_be_fixed": false
+    },
+    {
+      "has_dns": true,
+      "type": 0
+    }
+  ],
+  "properties": [
+    {
+      "type": 11,
+      "registrant_name": "Hamidreza Taherian"
+    },
+    {
+      "type": 11,
+      "admin_name": "Hamidreza Taherian"
+    },
+    {
+      "type": 11,
+      "tech_name": "Hamidreza Taherian"
+    },
+    {
+      "type": 3,
+      "dns": "ns2.parsihost.com"
+    },
+    {
+      "type": 3,
+      "dns": "ns1.parsihost.com"
+    },
+    {
+      "type": 0,
+      "registration_date": ""
+    },
+    {
+      "type": 0,
+      "expiration_date": "2022-03-04T00:00:00"
+    }
+  ]
+}

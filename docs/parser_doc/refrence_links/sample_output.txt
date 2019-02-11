@@ -1,0 +1,174 @@
+{
+  "results": [
+    {
+      "data": "info@peykasa.ir",
+      "properties": [
+        {
+          "owener": "",
+          "type": 11
+        },
+        {
+          "local_address": "info",
+          "type": 5
+        },
+        {
+          "type": 12,
+          "domain_name": "peykasa.ir"
+        },
+        {
+          "type": 11,
+          "organization": ""
+        },
+        {
+          "type": 0,
+          "isvalid": ""
+        }
+      ],
+      "type": 2
+    },
+    {
+      "data": "https://stackoverflow.com/questions/6883049/regex-to-find-urls-in-string-in-python",
+      "properties": [
+        {
+          "type": 12,
+          "domain_name": "stackoverflow.com"
+        },
+        {
+          "tld": "com",
+          "type": 11
+        }
+      ],
+      "type": 1,
+      "special_properties": [
+        {
+          "query": "",
+          "type": 0
+        },
+        {
+          "fragment": "",
+          "type": 0
+        },
+        {
+          "type": 0,
+          "scheme": "https"
+        },
+        {
+          "path": "/questions/6883049/regex-to-find-urls-in-string-in-python",
+          "type": 0
+        }
+      ]
+    },
+    {
+      "data": "+989152682136",
+      "properties": [
+        {
+          "type": 11,
+          "operator": ""
+        },
+        {
+          "location": "",
+          "type": 11
+        },
+        {
+          "type": 0,
+          "country_code": ""
+        },
+        {
+          "phone_type": "",
+          "type": 0
+        }
+      ],
+      "type": 4
+    },
+    {
+      "data": "178.189.92.118",
+      "properties": [
+        {
+          "country": "",
+          "type": 11
+        },
+        {
+          "state": "",
+          "type": 11
+        }
+      ],
+      "type": 3,
+      "special_properties": [
+        {
+          "type": 0,
+          "is_site_local": ""
+        },
+        {
+          "type": 0,
+          "is_link_local": ""
+        },
+        {
+          "is_reserved": "",
+          "type": 0
+        },
+        {
+          "is_private": "",
+          "type": 0
+        },
+        {
+          "is_global": "",
+          "type": 0
+        },
+        {
+          "is_multicast": "",
+          "type": 0
+        },
+        {
+          "type": 0,
+          "is_loopback": ""
+        },
+        {
+          "is_unspecified": "",
+          "type": 0
+        },
+        {
+          "type": 0,
+          "version_type": ""
+        }
+      ]
+    },
+    {
+      "data": "google.com",
+      "properties": [
+        {
+          "name": "google",
+          "type": 11
+        },
+        {
+          "type": 11,
+          "subdomain": ""
+        },
+        {
+          "tld": "com",
+          "type": 11
+        }
+      ],
+      "type": 12
+    },
+    {
+      "data": "peykasa.ir",
+      "properties": [
+        {
+          "name": "peykasa",
+          "type": 11
+        },
+        {
+          "type": 11,
+          "subdomain": ""
+        },
+        {
+          "tld": "ir",
+          "type": 11
+        }
+      ],
+      "type": 12
+    }
+  ]
+}
+
+

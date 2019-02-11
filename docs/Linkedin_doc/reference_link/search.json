@@ -1,0 +1,157 @@
+﻿{
+  "results": [
+    {
+      "type": 5,
+      "linkedin_id": "f-martin-ramin-a7762135"
+    }
+  ],
+  "special_properties": [
+    {
+      "profile title": "Staff Photographer, The Wall Street Journal",
+      "ref": "https://www.linkedin.com/in/f-martin-ramin-a7762135/",
+      "type": 11
+    },
+    {
+      "type": 0,
+      "ref": "https://www.linkedin.com/in/f-martin-ramin-a7762135/",
+      "connection numbers": "182"
+    },
+    {
+      "type": 1,
+      "ref": "https://www.linkedin.com/in/f-martin-ramin-a7762135/",
+      "Website": "http://instagram.com/fmrphoto"
+    }
+  ],
+  "properties": [
+    {
+      "type": 13,
+      "image_profile": "/home/dpe/PycharmProjects/F.SystemAPI.01//modules/storage/d3e845ac6b90437bb03b59a2b96df09c/1d637e566a9f68056eaf13b47a983d7434045fa9837a33b311b3b85b8cc5a74e.jpg",
+      "more": {
+        "file_name": "1d637e566a9f68056eaf13b47a983d7434045fa9837a33b311b3b85b8cc5a74e",
+        "url": "https://media.licdn.com/dms/image/C5603AQHzx8rejIJM9g/profile-displayphoto-shrink_800_800/0?e=1546473600&v=beta&t=slSTckZaa6kBfNi8xATNEotR-fGjtyAkazr0G6iDAOI",
+        "ref": "https://www.linkedin.com/in/f-martin-ramin-a7762135/"
+      }
+    },
+    {
+      "thumbnail_image_profile": "/home/dpe/PycharmProjects/F.SystemAPI.01//modules/storage/d3e845ac6b90437bb03b59a2b96df09c/thumbnail/1d637e566a9f68056eaf13b47a983d7434045fa9837a33b311b3b85b8cc5a74e.jpg",
+      "type": 13,
+      "more": {
+        "file_name": "1d637e566a9f68056eaf13b47a983d7434045fa9837a33b311b3b85b8cc5a74e",
+        "url": "https://media.licdn.com/dms/image/C5603AQHzx8rejIJM9g/profile-displayphoto-shrink_800_800/0?e=1546473600&v=beta&t=slSTckZaa6kBfNi8xATNEotR-fGjtyAkazr0G6iDAOI",
+        "ref": "https://www.linkedin.com/in/f-martin-ramin-a7762135/"
+      }
+    },
+    {
+      "name": "F. Martin Ramin",
+      "type": 11,
+      "ref": "https://www.linkedin.com/in/f-martin-ramin-a7762135/"
+    },
+    {
+      "location": "New York, New York",
+      "type": 8,
+      "ref": "https://www.linkedin.com/in/f-martin-ramin-a7762135/"
+    },
+    {
+      "type": 11,
+      "ref": "https://www.linkedin.com/in/f-martin-ramin-a7762135/",
+      "experiences": [
+        {
+          "title": "Studio Photographer",
+          "Company Name": "The Wall Street Journal",
+          "more": {
+            "Dates Employed": "Sep 2010 – Present",
+            "total duration": "8 yrs 2 mos"
+          },
+          "history": []
+        },
+        {
+          "title": "Photographer",
+          "Company Name": "F. Martin Ramin Photography",
+          "more": {
+            "Dates Employed": "Apr 2007 – Present",
+            "total duration": "11 yrs 7 mos"
+          },
+          "history": []
+        }
+      ]
+    },
+    {
+      "ref": "https://www.linkedin.com/in/f-martin-ramin-a7762135/",
+      "type": 11,
+      "educations": [
+        {
+          "university": "Parsons School of Design",
+          "more": {
+            "Dates attended or expected graduation": "1999 – 2001"
+          }
+        }
+      ]
+    },
+    {
+      "interests": [
+        {
+          "type": 11,
+          "interest": "Parsons School of Design - The New School",
+          "ref": "https://www.linkedin.com/in/f-martin-ramin-a7762135/",
+          "more": [
+            {
+              "followers": "72,196 followers"
+            }
+          ]
+        },
+        {
+          "type": 11,
+          "interest": "Hearst",
+          "ref": "https://www.linkedin.com/in/f-martin-ramin-a7762135/",
+          "more": [
+            {
+              "followers": "64,699 followers"
+            }
+          ]
+        },
+        {
+          "type": 11,
+          "interest": "The Wall Street Journal",
+          "ref": "https://www.linkedin.com/in/f-martin-ramin-a7762135/",
+          "more": [
+            {
+              "followers": "4,716,612 followers"
+            }
+          ]
+        }
+      ],
+      "ref": "https://www.linkedin.com/in/f-martin-ramin-a7762135/",
+      "type": 11
+    },
+    {
+      "skills": [
+        {
+          "title": "Industry Knowledge",
+          "more": [
+            "Image Manipulation",
+            "Photography",
+            "Portraits",
+            "Digital Photography",
+            "Studio Lighting",
+            "Art",
+            "Fashion"
+          ]
+        },
+        {
+          "title": "Tools & Technologies",
+          "more": [
+            "Photoshop"
+          ]
+        },
+        {
+          "title": "Other Skills",
+          "more": [
+            "Editorial"
+          ]
+        }
+      ],
+      "type": 11,
+      "ref": "https://www.linkedin.com/in/f-martin-ramin-a7762135/"
+    }
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "properties": [
+    {
+      "profile_pic_url": "/home/dpe/PycharmProjects/F.SystemAPI.01/modules/instagram/storage/2018-08-25//6d52dde67cb5f6c66fab57f9781f3891998cfcee60ddd086c55dd5869a92ed5a.jpg",
+      "type": 13,
+      "more": {
+        "url": "instagram.com/524549267",
+        "ref": ""
+      }
+    },
+    {
+      "full_name": "Microsoft",
+      "type": 11
+    },
+    {
+      "type": 5,
+      "username": "microsoft"
+    },
+    {
+      "type": 11,
+      "city_name": "Redmond, Washington"
+    },
+    {
+      "type": 2,
+      "public_email": ""
+    },
+    {
+      "type": 0,
+      "public_phone_number": ""
+    },
+    {
+      "contact_phone_number": "",
+      "type": 4
+    },
+    {
+      "type": 1,
+      "external_url": "http://msft.social/0KmrRF"
+    },
+    {
+      "zip": "",
+      "type": 8
+    },
+    {
+      "address_street": "",
+      "type": 8
+    },
+    {
+      "type": 8,
+      "latitude": 47.6694
+    },
+    {
+      "type": 8,
+      "longitude": -122.124
+    },
+    {
+      "type": 0,
+      "city_id": 109738839051539
+    },
+    {
+      "type": 0,
+      "biography": "The official Instagram account of Microsoft. Celebrating people who use technology to break boundaries and achieve more."
+    }
+  ],
+  "results": [
+    {
+      "full_name": "Microsoft",
+      "type": 11
+    },
+    {
+      "type": 5,
+      "username": "microsoft"
+    }],
+  "special_properties": [
+    {
+      "type": 0,
+      "sub_type": 3
+    },
+    {
+      "type": 1,
+      "has_placed_url": ""
+    },
+    {
+      "type": 0,
+      "has_highlight_reels": ""
+    },
+    {
+      "type": 0,
+      "include_direct_blacklist_status": ""
+    },
+    {
+      "type": 0,
+      "has_unseen_besties_media": ""
+    },
+    {
+      "type": 0,
+      "auto_expand_chaining": ""
+    },
+    {
+      "type": 0,
+      "has_placed_orders": ""
+    },
+    {
+      "type": 0,
+      "external_lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Fmsft.social%2F0KmrRF&e=ATOC8ji7J7hfLmm0YBUj6VFSTQ3Glr1dqkZbEgcS0IfN6Fnr7dmQxFSGEh-5elxv_NGmME6M8ocii4Jd"
+    },
+    {
+      "follower_count": 1892867,
+      "type": 0
+    },
+    {
+      "type": 0,
+      "following_count": 220
+    },
+    {
+      "type": 0,
+      "is_business": true
+    },
+    {
+      "type": 0,
+      "has_biography_translation": ""
+    },
+    {
+      "business_contact_method": "CALL",
+      "type": 0
+    },
+    {
+      "category": "Company",
+      "type": 0
+    },
+    {
+      "type": 0,
+      "geo_media_count": 0
+    },
+    {
+      "type": 0,
+      "pk": 524549267
+    },
+    {
+      "type": 0,
+      "is_call_to_action_enabled": false
+    },
+    {
+      "media_count": 460,
+      "type": 0
+    },
+    {
+      "type": 5,
+      "has_chaining": true
+    },
+    {
+      "type": 0,
+      "has_anonymous_profile_picture": false
+    },
+    {
+      "fb_page_call_to_action_id": "",
+      "type": 0
+    },
+    {
+      "school": {},
+      "type": 0
+    },
+    {
+      "type": 0,
+      "is_verified": true
+    },
+    {
+      "is_private": false,
+      "type": 0
+    },
+    {
+      "type": 0,
+      "is_favorite": false
+    },
+    {
+      "is_eligible_for_school": false,
+      "type": 0
+    },
+    {
+      "type": 0,
+      "direct_messaging": "UNKNOWN"
+    },
+    {
+      "reel_auto_archive": "on",
+      "type": 0
+    },
+    {
+      "usertags_count": 806,
+      "type": 0
+    },
+    {
+      "type": 0,
+      "has_persistent_profile_school": ""
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "results": [
+    {
+      "type": 0,
+      "ref": {
+        "whois_for": "time.com",
+        "task": "whois",
+        "whois_from": "whois.markmonitor.com"
+      },
+      "data": {
+        "administrative_contact": {
+          "postalcode": "10281",
+          "country": "United States",
+          "fax": "+1.2125229514",
+          "name": "Time Inc. Legal",
+          "type": "whois_contact_name",
+          "street": "",
+          "city": "New York",
+          "organization": "Time Inc.",
+          "email": "domain_admin@timeinc.net",
+          "phone": "+1.2125229565"
+        },
+        "technical_contact": {
+          "postalcode": "10281",
+          "country": "United States",
+          "fax": "+1.2125229514",
+          "name": "Time Inc. Legal",
+          "type": "whois_contact_name",
+          "street": "",
+          "city": "New York",
+          "organization": "Time Inc.",
+          "email": "domain_admin@timeinc.net",
+          "phone": "+1.2125229565"
+        },
+        "registrant_contact": {
+          "postalcode": "10281",
+          "country": "United States",
+          "fax": "+1.2125229514",
+          "name": "Time Inc. Legal",
+          "type": "whois_contact_name",
+          "street": "",
+          "city": "New York",
+          "organization": "Time Inc.",
+          "email": "domain_admin@timeinc.net",
+          "phone": "+1.2125229565"
+        }
+      }
+    },
+    {
+      "type": 2,
+      "ref": {
+        "whois_for": "time.com",
+        "label": "technical_contact_name",
+        "task": "whois",
+        "whois_from": "whois.markmonitor.com"
+      },
+      "special_properties": [
+        {
+          "type": 0,
+          "isvalid": ""
+        }
+      ],
+      "properties": [
+        {
+          "type": 11,
+          "organization": "New York"
+        },
+        {
+          "type": 11,
+          "owner": "Time Inc. Legal"
+        },
+        {
+          "type": 12,
+          "domain_name": "timeinc.net"
+        },
+        {
+          "type": 5,
+          "local_address": "domain_admin"
+        }
+      ],
+      "is_valid": "",
+      "data": "domain_admin@timeinc.net"
+    },
+    {
+      "type": 2,
+      "ref": {
+        "whois_for": "time.com",
+        "task": "whois",
+        "whois_from": "whois.markmonitor.com"
+      },
+      "special_properties": [
+        {
+          "type": 0,
+          "isvalid": ""
+        }
+      ],
+      "properties": [
+        {
+          "type": 11,
+          "owner": ""
+        },
+        {
+          "type": 11,
+          "organization": ""
+        },
+        {
+          "type": 5,
+          "local_address": "abusecomplaints"
+        },
+        {
+          "type": 12,
+          "domain_name": "markmonitor.com"
+        }
+      ],
+      "is_valid": "",
+      "data": "abusecomplaints@markmonitor.com"
+    },
+    {
+      "type": 2,
+      "ref": {
+        "whois_for": "time.com",
+        "task": "whois",
+        "whois_from": "whois.markmonitor.com"
+      },
+      "special_properties": [
+        {
+          "type": 0,
+          "isvalid": ""
+        }
+      ],
+      "properties": [
+        {
+          "type": 11,
+          "owner": ""
+        },
+        {
+          "type": 11,
+          "organization": ""
+        },
+        {
+          "type": 5,
+          "local_address": "whoisrelay"
+        },
+        {
+          "type": 12,
+          "domain_name": "markmonitor.com"
+        }
+      ],
+      "is_valid": "",
+      "data": "whoisrelay@markmonitor.com"
+    },
+    {
+      "type": 4,
+      "ref": {
+        "whois_for": "time.com",
+        "task": "whois",
+        "whois_from": "whois.markmonitor.com"
+      },
+      "properties": [
+        {
+          "type": 11,
+          "location": "New York"
+        },
+        {
+          "type": 11,
+          "owner": "Time Inc. Legal"
+        }
+      ],
+      "special_properties": [
+        {
+          "type": 0,
+          "phone_type": ""
+        },
+        {
+          "type": 0,
+          "country_code": ""
+        },
+        {
+          "type": 0,
+          "operator": ""
+        },
+        {
+          "type": 0,
+          "is_valid": ""
+        }
+      ],
+      "data": "+1.2125229565"
+    },
+    {
+      "type": 4,
+      "ref": {
+        "whois_for": "t",
+        "task": "whois",
+        "whois_from": "whois.markmonitor.com"
+      },
+      "properties": [
+        {
+          "type": 11,
+          "owner": ""
+        },
+        {
+          "type": 11,
+          "location": ""
+        }
+      ],
+      "special_properties": [
+        {
+          "type": 0,
+          "phone_type": ""
+        },
+        {
+          "type": 0,
+          "country_code": ""
+        },
+        {
+          "type": 0,
+          "operator": ""
+        },
+        {
+          "type": 0,
+          "is_valid": ""
+        }
+      ],
+      "data": "+1.2083895740"
+    },
+    {
+      "type": 4,
+      "ref": {
+        "whois_for": "t",
+        "task": "whois",
+        "whois_from": "whois.markmonitor.com"
+      },
+      "properties": [
+        {
+          "type": 11,
+          "owner": ""
+        },
+        {
+          "type": 11,
+          "location": ""
+        }
+      ],
+      "special_properties": [
+        {
+          "type": 0,
+          "phone_type": ""
+        },
+        {
+          "type": 0,
+          "country_code": ""
+        },
+        {
+          "type": 0,
+          "operator": ""
+        },
+        {
+          "type": 0,
+          "is_valid": ""
+        }
+      ],
+      "data": "+1.8007459229"
+    },
+    {
+      "type": 4,
+      "ref": {
+        "whois_for": "t",
+        "task": "whois",
+        "whois_from": "whois.markmonitor.com"
+      },
+      "properties": [
+        {
+          "type": 11,
+          "owner": ""
+        },
+        {
+          "type": 11,
+          "location": ""
+        }
+      ],
+      "special_properties": [
+        {
+          "type": 0,
+          "phone_type": ""
+        },
+        {
+          "type": 0,
+          "country_code": ""
+        },
+        {
+          "type": 0,
+          "operator": ""
+        },
+        {
+          "type": 0,
+          "is_valid": ""
+        }
+      ],
+      "data": "+44.02032062220"
+    },
+    {
+      "type": 11,
+      "ref": {
+        "whois_for": "time.com",
+        "task": "whois",
+        "whois_from": "whois.markmonitor.com"
+      },
+      "properties": [
+        {
+          "type": 4,
+          "fax": "+1.2125229514"
+        },
+        {
+          "type": 4,
+          "phone": "+1.2125229565"
+        },
+        {
+          "country": "United States",
+          "type": 11
+        },
+        {
+          "street": "",
+          "type": 8
+        },
+        {
+          "type": 11,
+          "city": "New York"
+        },
+        {
+          "type": 2,
+          "email": "domain_admin@timeinc.net"
+        }
+      ],
+      "special_properties": [
+        {
+          "type": 0,
+          "is_username": false
+        },
+        {
+          "type": 0,
+          "is_domain_name": false
+        },
+        {
+          "type": 0,
+          "is_public_name": false
+        },
+        {
+          "type": 0,
+          "is_account_name": false
+        }
+      ],
+      "data": "Time Inc. Legal"
+    }
+  ],
+  "special_properties": [
+    {
+      "type": 0,
+      "valid": true
+    },
+    {
+      "type": 0,
+      "should_be_fixed": false
+    },
+    {
+      "type": 0,
+      "has_dns": true
+    }
+  ],
+  "properties": [
+    {
+      "type": 11,
+      "registrant_name": "Time Inc. Legal"
+    },
+    {
+      "type": 11,
+      "admin_name": "Time Inc. Legal"
+    },
+    {
+      "type": 11,
+      "tech_name": "Time Inc. Legal"
+    },
+    {
+      "type": 3,
+      "dns": "ns-1235.awsdns-26.org"
+    },
+    {
+      "type": 3,
+      "dns": "ns-179.awsdns-22.com"
+    },
+    {
+      "type": 3,
+      "dns": "ns-1978.awsdns-55.co.uk"
+    },
+    {
+      "type": 3,
+      "dns": "ns-641.awsdns-16.net"
+    },
+    {
+      "type": 3,
+      "dns": "ns1.p07.dynect.net"
+    },
+    {
+      "type": 3,
+      "dns": "ns2.p07.dynect.net"
+    },
+    {
+      "type": 3,
+      "dns": "ns3.p07.dynect.net"
+    },
+    {
+      "type": 3,
+      "dns": "ns4.p07.dynect.net"
+    },
+    {
+      "type": 0,
+      "registration_date": "1993-11-19"
+    },
+    {
+      "expiration_date": "2019-11-17",
+      "type": 0
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "results": [
+    {
+      "special_properties": {
+        "ref": "registrant_contact"
+      },
+      "data": "Domain Administration",
+      "type": 11,
+      "properties": {
+        "history": [
+          {
+            "data": "Time Inc. Legal",
+            "type": 11,
+            "more": {
+              "time": "2016-05-13 01:01:16"
+            }
+          },
+          {
+            "data": "Time Inc.",
+            "type": 11,
+            "more": {
+              "time": "2018-05-29 16:06:36"
+            }
+          },
+          {
+            "data": "Time Inc. Legal",
+            "type": 11,
+            "more": {
+              "time": "2018-08-22 16:49:36"
+            }
+          },
+          {
+            "data": "Time Inc.",
+            "type": 11,
+            "more": {
+              "time": "2018-10-19 18:04:02"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "special_properties": {
+        "ref": "registrant_contact"
+      },
+      "data": "domain_admin@timeinc.net",
+      "type": 2,
+      "properties": {
+        "history": [
+          {
+            "data": "tdamato@noras.com",
+            "type": 2,
+            "more": {
+              "time": "2018-10-19 18:04:02"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "special_properties": {
+        "ref": "registrant_contact"
+      },
+      "data": "12125229565",
+      "type": 4,
+      "properties": {
+        "history": [
+          {
+            "data": "+1.2125229565",
+            "type": 4,
+            "more": {
+              "time": "2017-07-26 12:54:54"
+            }
+          },
+          {
+            "data": "+202.462514315",
+            "type": 4,
+            "more": {
+              "time": "2018-10-19 18:04:02"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "special_properties": {
+        "ref": "registrant_contact"
+      },
+      "data": "1271 Avenue",
+      "type": 8,
+      "properties": {
+        "history": [
+          {
+            "data": "1271 Avenue of the Americas,",
+            "type": 8,
+            "more": {
+              "time": "2015-03-26 00:00:00",
+              "city_name": "New York",
+              "zip_code": "10020",
+              "country_name": "United States"
+            }
+          },
+          {
+            "data": "225 Liberty Street,",
+            "type": 8,
+            "more": {
+              "time": "2016-05-13 01:01:16",
+              "city_name": "New York",
+              "zip_code": "10281",
+              "country_name": "United States"
+            }
+          },
+          {
+            "data": "2132 Florida Ave NE",
+            "type": 8,
+            "more": {
+              "time": "2018-10-19 18:04:02",
+              "city_name": "Washington",
+              "zip_code": "20008",
+              "country_name": "United States"
+            }
+          }
+        ],
+        "city_name": "New York",
+        "zip_code": "10020",
+        "country_name": "United States"
+      }
+    },
+    {
+      "special_properties": {
+        "ref": "administrative_contact"
+      },
+      "data": "Domain Administration",
+      "type": 11,
+      "properties": {
+        "history": [
+          {
+            "data": "Time Inc. Legal",
+            "type": 11,
+            "more": {
+              "time": "2016-05-13 01:01:16"
+            }
+          },
+          {
+            "data": "Time Inc.",
+            "type": 11,
+            "more": {
+              "time": "2018-05-29 16:06:36"
+            }
+          },
+          {
+            "data": "Time Inc. Legal",
+            "type": 11,
+            "more": {
+              "time": "2018-08-22 16:49:36"
+            }
+          },
+          {
+            "data": "Thomas DaMato",
+            "type": 11,
+            "more": {
+              "time": "2018-10-19 18:04:02"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "special_properties": {
+        "ref": "administrative_contact"
+      },
+      "data": "domain_admin@timeinc.net",
+      "type": 2,
+      "properties": {
+        "history": [
+          {
+            "data": "tdamato@noras.com",
+            "type": 2,
+            "more": {
+              "time": "2018-10-19 18:04:02"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "special_properties": {
+        "ref": "administrative_contact"
+      },
+      "data": "12125229565",
+      "type": 4,
+      "properties": {
+        "history": [
+          {
+            "data": "+1.2125229565",
+            "type": 4,
+            "more": {
+              "time": "2017-07-26 12:54:54"
+            }
+          },
+          {
+            "data": "+1.202462514315",
+            "type": 4,
+            "more": {
+              "time": "2018-10-19 18:04:02"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "special_properties": {
+        "ref": "administrative_contact"
+      },
+      "data": "1271 Avenue",
+      "type": 8,
+      "properties": {
+        "history": [
+          {
+            "data": "1271 Avenue of the Americas,",
+            "type": 8,
+            "more": {
+              "time": "2015-03-26 00:00:00",
+              "city_name": "New York",
+              "zip_code": "10020",
+              "country_name": "United States"
+            }
+          },
+          {
+            "data": "225 Liberty Street,",
+            "type": 8,
+            "more": {
+              "time": "2016-05-13 01:01:16",
+              "city_name": "New York",
+              "zip_code": "10281",
+              "country_name": "United States"
+            }
+          },
+          {
+            "data": "2132 Florida Ave NE",
+            "type": 8,
+            "more": {
+              "time": "2018-10-19 18:04:02",
+              "city_name": "Washington",
+              "zip_code": "20008",
+              "country_name": "United States"
+            }
+          }
+        ],
+        "city_name": "New York",
+        "zip_code": "10020",
+        "country_name": "United States"
+      }
+    },
+    {
+      "special_properties": {
+        "ref": "technical_contact"
+      },
+      "data": "Domain Tech",
+      "type": 11,
+      "properties": {
+        "history": [
+          {
+            "data": "Time Inc. Legal",
+            "type": 11,
+            "more": {
+              "time": "2016-05-13 01:01:16"
+            }
+          },
+          {
+            "data": "Time Inc.",
+            "type": 11,
+            "more": {
+              "time": "2018-05-29 16:06:36"
+            }
+          },
+          {
+            "data": "Time Inc. Legal",
+            "type": 11,
+            "more": {
+              "time": "2018-08-22 16:49:36"
+            }
+          },
+          {
+            "data": "Stephen Wilcox",
+            "type": 11,
+            "more": {
+              "time": "2018-10-19 18:04:02"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "special_properties": {
+        "ref": "technical_contact"
+      },
+      "data": "domain_tech@timeinc.net",
+      "type": 2,
+      "properties": {
+        "history": [
+          {
+            "data": "domain_admin@timeinc.net",
+            "type": 2,
+            "more": {
+              "time": "2016-05-13 01:01:16"
+            }
+          },
+          {
+            "data": "customerservice@networksolutions.com",
+            "type": 2,
+            "more": {
+              "time": "2018-10-19 18:04:02"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "special_properties": {
+        "ref": "technical_contact"
+      },
+      "data": "12125229565",
+      "type": 4,
+      "properties": {
+        "history": [
+          {
+            "data": "+1.2125229565",
+            "type": 4,
+            "more": {
+              "time": "2017-07-26 12:54:54"
+            }
+          },
+          {
+            "data": "+1.8886429675",
+            "type": 4,
+            "more": {
+              "time": "2018-10-19 18:04:02"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "special_properties": {
+        "ref": "technical_contact"
+      },
+      "data": "1271 Avenue",
+      "type": 8,
+      "properties": {
+        "history": [
+          {
+            "data": "1271 Avenue of the Americas,",
+            "type": 8,
+            "more": {
+              "time": "2015-03-26 00:00:00",
+              "city_name": "New York",
+              "zip_code": "10020",
+              "country_name": "United States"
+            }
+          },
+          {
+            "data": "225 Liberty Street,",
+            "type": 8,
+            "more": {
+              "time": "2016-05-13 01:01:16",
+              "city_name": "New York",
+              "zip_code": "10281",
+              "country_name": "United States"
+            }
+          },
+          {
+            "data": "13861 SUNRISE VALLEY DR",
+            "type": 8,
+            "more": {
+              "time": "2018-10-19 18:04:02",
+              "city_name": "Herndon",
+              "zip_code": "20171-6124",
+              "country_name": "United States"
+            }
+          }
+        ],
+        "city_name": "New York",
+        "zip_code": "10020",
+        "country_name": "United States"
+      }
+    },
+    {
+      "special_properties": {
+        "ref": "name_servers"
+      },
+      "data": "ns1.savvis.net",
+      "type": 12,
+      "properties": {
+        "history": [
+          {
+            "data": "ns1.p07.dynect.net",
+            "type": 12,
+            "more": {
+              "time": "2015-03-26 00:00:00",
+              "other_name_servers": [
+                "ns2.p07.dynect.net",
+                "ns3.p07.dynect.net",
+                "ns4.p07.dynect.net"
+              ]
+            }
+          },
+          {
+            "data": "ns-1235.awsdns-26.org.",
+            "type": 12,
+            "more": {
+              "time": "2017-03-04 13:01:49",
+              "other_name_servers": [
+                "ns-179.awsdns-22.com.",
+                "ns-1978.awsdns-55.co.uk.",
+                "ns-641.awsdns-16.net."
+              ]
+            }
+          },
+          {
+            "data": "1235.awsdns",
+            "type": 12,
+            "more": {
+              "time": "2017-10-16 06:25:32",
+              "other_name_servers": [
+                "179.awsdns",
+                "1978.awsdns",
+                "641.awsdns"
+              ]
+            }
+          },
+          {
+            "data": "ns-1235.awsdns-26.org",
+            "type": 12,
+            "more": {
+              "time": "2017-12-11 15:52:27",
+              "other_name_servers": [
+                "ns-179.awsdns-22.com",
+                "ns-1978.awsdns-55.co.uk",
+                "ns-641.awsdns-16.net"
+              ]
+            }
+          }
+        ],
+        "other_name_servers": [
+          "ns2.savvis.net",
+          "ns3.savvis.net",
+          "ns4.savvis.net"
+        ]
+      }
+    }
+  ]
+}

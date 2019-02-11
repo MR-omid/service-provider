@@ -1,0 +1,142 @@
+﻿{
+  "has_media": true,
+  "results": [
+    {
+      "special_properties": [
+        {
+          "sub_type": 2,
+          "type": 0
+        },
+        {
+          "screen_name": "FootbaIIBattIes",
+          "type": 5
+        },
+        {
+          "location": "⚽️|DM us battle suggestions|⚽️",
+          "type": 8
+        },
+        {
+          "protected": false,
+          "type": 0
+        },
+        {
+          "verified": false,
+          "type": 0
+        },
+        {
+          "followers_count": 54068,
+          "type": 0
+        },
+        {
+          "friends_count": 1472,
+          "type": 0
+        },
+        {
+          "listed_count": 726,
+          "type": 0
+        },
+        {
+          "favourites_count": 6572,
+          "type": 0
+        },
+        {
+          "statuses_count": 12376,
+          "type": 0
+        },
+        {
+          "type": 0,
+          "created_at": "Sun Jan 11 22:27:02 +0000 2015"
+        },
+        {
+          "type": 0,
+          "geo_enabled": true
+        },
+        {
+          "type": 11,
+          "lang": "en-gb"
+        },
+        {
+          "contributors_enabled": false,
+          "type": 0
+        },
+        {
+          "more": {
+            "url": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "ref": "https://twitter.com/FootbaIIBattIes",
+            "file_name": "ddcea6c9af6c1e668209cbfd36cc32ccde4dcf68afee208d47470254831ba39b"
+          },
+          "type": 13,
+          "profile_background_image_url": "/home/dpe/F.SystemAPI.01//modules/storage/220b94da7feb4504bdecdd33703ebdba/ddcea6c9af6c1e668209cbfd36cc32ccde4dcf68afee208d47470254831ba39b.jpg"
+        },
+        {
+          "profile_background_image_url_thumbnail": "/home/dpe/F.SystemAPI.01//modules/storage/220b94da7feb4504bdecdd33703ebdba/thumbnail/ddcea6c9af6c1e668209cbfd36cc32ccde4dcf68afee208d47470254831ba39b.jpg",
+          "type": 13,
+          "more": {
+            "url": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "ref": "https://twitter.com/FootbaIIBattIes",
+            "file_name": "ddcea6c9af6c1e668209cbfd36cc32ccde4dcf68afee208d47470254831ba39b"
+          }
+        },
+        {
+          "profile_banner_url": "/home/dpe/F.SystemAPI.01//modules/storage/220b94da7feb4504bdecdd33703ebdba/ddcea6c9af6c1e668209cbfd36cc32cc576cf16e8ec33c478ac8807d8b629db8.jpg",
+          "type": 13,
+          "more": {
+            "url": "https://pbs.twimg.com/profile_banners/2973790816/1537570630",
+            "ref": "https://twitter.com/FootbaIIBattIes",
+            "file_name": "ddcea6c9af6c1e668209cbfd36cc32cc576cf16e8ec33c478ac8807d8b629db8"
+          }
+        },
+        {
+          "profile_banner_url_thumbnail": "/home/dpe/F.SystemAPI.01//modules/storage/220b94da7feb4504bdecdd33703ebdba/thumbnail/ddcea6c9af6c1e668209cbfd36cc32cc576cf16e8ec33c478ac8807d8b629db8.jpg",
+          "type": 13,
+          "more": {
+            "url": "https://pbs.twimg.com/profile_banners/2973790816/1537570630",
+            "ref": "https://twitter.com/FootbaIIBattIes",
+            "file_name": "ddcea6c9af6c1e668209cbfd36cc32cc576cf16e8ec33c478ac8807d8b629db8"
+          }
+        },
+        {
+          "more": {
+            "url": "https://pbs.twimg.com/profile_images/759136677109571585/rFREgcHx_normal.jpg",
+            "ref": "https://twitter.com/FootbaIIBattIes",
+            "file_name": "ddcea6c9af6c1e668209cbfd36cc32ccc512a8cfa812a4825f4c9f9cef76cf05"
+          },
+          "type": 13,
+          "profile_image_url": "/home/dpe/F.SystemAPI.01//modules/storage/220b94da7feb4504bdecdd33703ebdba/ddcea6c9af6c1e668209cbfd36cc32ccc512a8cfa812a4825f4c9f9cef76cf05.jpg"
+        },
+        {
+          "more": {
+            "url": "https://pbs.twimg.com/profile_images/759136677109571585/rFREgcHx_normal.jpg",
+            "ref": "https://twitter.com/FootbaIIBattIes",
+            "file_name": "ddcea6c9af6c1e668209cbfd36cc32ccc512a8cfa812a4825f4c9f9cef76cf05"
+          },
+          "type": 13,
+          "profile_image_url_thumbnail": "/home/dpe/F.SystemAPI.01//modules/storage/220b94da7feb4504bdecdd33703ebdba/thumbnail/ddcea6c9af6c1e668209cbfd36cc32ccc512a8cfa812a4825f4c9f9cef76cf05.jpg"
+        }
+      ],
+      "data": "FootbaIIBattIes",
+      "type": 5,
+      "properties": [
+        {
+          "name": "Football Battles",
+          "type": 11
+        },
+        {
+          "description": "Providing the best football battles on twitter | Comparing players and more | Polls, News, and Stats | Promotional Enquiries- footballbattlesenquiries@gmail.com",
+          "type": 0
+        },
+        {
+          "url": [
+            {
+              "title": ""
+            },
+            {
+              "title": null
+            }
+          ],
+          "type": 1
+        }
+      ]
+    }
+  ]
+}

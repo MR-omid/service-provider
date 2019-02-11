@@ -1,0 +1,215 @@
+﻿{
+  "results": [
+    {
+      "type": 5,
+      "linkedin_id": "hooman-sayyari-468151a3"
+    }
+  ],
+  "properties": [
+    {
+      "type": 13,
+      "image_profile": "/home/dpe/PycharmProjects/F.SystemAPI.01//modules/storage/4d8cb0a98bd24043b82975804bd657d0/1d637e566a9f68056eaf13b47a983d742cd204c496618a3d7f0b109bdd99b305.jpg",
+      "more": {
+        "ref": "https://www.linkedin.com/in/hooman-sayyari-468151a3/",
+        "url": "https://media.licdn.com/dms/image/C4E03AQGInnVvu0mgYw/profile-displayphoto-shrink_800_800/0?e=1546473600&v=beta&t=fHMRkuq0Hh7Q_KhoATQgF2ogBJrbwz0X8geLdONvu0Q",
+        "file_name": "1d637e566a9f68056eaf13b47a983d742cd204c496618a3d7f0b109bdd99b305"
+      }
+    },
+    {
+      "type": 13,
+      "more": {
+        "ref": "https://www.linkedin.com/in/hooman-sayyari-468151a3/",
+        "url": "https://media.licdn.com/dms/image/C4E03AQGInnVvu0mgYw/profile-displayphoto-shrink_800_800/0?e=1546473600&v=beta&t=fHMRkuq0Hh7Q_KhoATQgF2ogBJrbwz0X8geLdONvu0Q",
+        "file_name": "1d637e566a9f68056eaf13b47a983d742cd204c496618a3d7f0b109bdd99b305"
+      },
+      "thumbnail_image_profile": "/home/dpe/PycharmProjects/F.SystemAPI.01//modules/storage/4d8cb0a98bd24043b82975804bd657d0/thumbnail/1d637e566a9f68056eaf13b47a983d742cd204c496618a3d7f0b109bdd99b305.jpg"
+    },
+    {
+      "type": 11,
+      "ref": "https://www.linkedin.com/in/hooman-sayyari-468151a3/",
+      "name": "Hooman Sayyari"
+    },
+    {
+      "type": 8,
+      "location": "Iran",
+      "ref": "https://www.linkedin.com/in/hooman-sayyari-468151a3/"
+    },
+    {
+      "type": 11,
+      "ref": "https://www.linkedin.com/in/hooman-sayyari-468151a3/",
+      "experiences": [
+        {
+          "Company Name": "HomaTelecom",
+          "history": [],
+          "title": "Aftersales Manager",
+          "more": {
+            "Dates Employed": "Sep 2015 – Present",
+            "total duration": "3 yrs 2 mos"
+          }
+        },
+        {
+          "Company Name": "Islamic Azad University",
+          "history": [],
+          "title": "Instructor",
+          "more": {
+            "Dates Employed": "Sep 2007 – Present",
+            "total duration": "11 yrs 2 mos"
+          }
+        },
+        {
+          "Company Name": "Different Companies",
+          "history": [],
+          "title": "Project Manager",
+          "more": {
+            "Dates Employed": "Sep 2005 – Oct 2016",
+            "total duration": "11 yrs 2 mos"
+          }
+        },
+        {
+          "Company Name": "Rayaneh Khabar Magazine (Computer News)",
+          "history": [],
+          "title": "Staff Writer",
+          "more": {
+            "Dates Employed": "Jun 2005 – Mar 2016",
+            "total duration": "10 yrs 10 mos"
+          }
+        },
+        {
+          "Company Name": "Traininig",
+          "history": [],
+          "title": "Senior Lecturer",
+          "more": {
+            "Dates Employed": "Jan 1999 – Mar 2016",
+            "total duration": "17 yrs 3 mos"
+          }
+        }
+      ]
+    },
+    {
+      "type": 11,
+      "ref": "https://www.linkedin.com/in/hooman-sayyari-468151a3/",
+      "educations": [
+        {
+          "university": "Islamic Azad University North Tehran Branch",
+          "more": {
+            "Dates attended or expected graduation": "2015"
+          }
+        },
+        {
+          "university": "Islamic Azad University, Science and Research Branch, Tehran",
+          "more": {
+            "Dates attended or expected graduation": "1998 – 2001",
+            "Degree Name": "Master's degree",
+            "Field Of Study": "Computer Architecture Engineering"
+          }
+        },
+        {
+          "university": "Islamic Azad University, Central Tehran Branch",
+          "more": {
+            "Dates attended or expected graduation": "1993 – 1997",
+            "Degree Name": "Bachelor's degree",
+            "Field Of Study": "Computer Hardware Engineering"
+          }
+        }
+      ]
+    },
+    {
+      "type": 11,
+      "ref": "https://www.linkedin.com/in/hooman-sayyari-468151a3/",
+      "skills": [
+        {
+          "title": "Industry Knowledge",
+          "more": [
+            "Software Development",
+            "Computer Science",
+            "Computer Maintenance",
+            "Computer Repair"
+          ]
+        },
+        {
+          "title": "Tools & Technologies",
+          "more": [
+            "Computer Hardware",
+            "C++",
+            "Microsoft Office",
+            "Windows",
+            "Microsoft Project",
+            "Microsoft Excel",
+            "PowerPoint",
+            "Photoshop",
+            "Microsoft PowerPoint"
+          ]
+        },
+        {
+          "title": "Interpersonal Skills",
+          "more": [
+            "Management",
+            "University Teaching"
+          ]
+        },
+        {
+          "title": "Other Skills",
+          "more": [
+            "Networking",
+            "IT Hardware Support",
+            "Project Managers",
+            "Staff Writer"
+          ]
+        }
+      ]
+    },
+    {
+      "type": 11,
+      "ref": "https://www.linkedin.com/in/hooman-sayyari-468151a3/",
+      "accomplishments": [
+        {
+          "type": 11,
+          "ref": "https://www.linkedin.com/in/hooman-sayyari-468151a3/",
+          "title": "Languages",
+          "more": [
+            "English",
+            "Persian"
+          ]
+        },
+        {
+          "type": 11,
+          "ref": "https://www.linkedin.com/in/hooman-sayyari-468151a3/",
+          "title": "Organization",
+          "more": [
+            "Homatelecom"
+          ]
+        },
+        {
+          "type": 11,
+          "ref": "https://www.linkedin.com/in/hooman-sayyari-468151a3/",
+          "title": "Publication",
+          "more": [
+            "Rayaneh Khabar Magazine"
+          ]
+        }
+      ]
+    }
+  ],
+  "special_properties": [
+    {
+      "type": 11,
+      "ref": "https://www.linkedin.com/in/hooman-sayyari-468151a3/",
+      "profile title": "Aftersales Manager at HomaTelecom"
+    },
+    {
+      "connection numbers": "500+",
+      "type": 0,
+      "ref": "https://www.linkedin.com/in/hooman-sayyari-468151a3/"
+    },
+    {
+      "type": 0,
+      "ref": "https://www.linkedin.com/in/hooman-sayyari-468151a3/",
+      "profile summary": "Expert in: Instructor at Islamic Azad University, After Sales Service Manager, Project Manager, Microsoft Project Expert, Staff Writer, Network, Technical Manager(IT), Training, Advanced Excel Expert, New Hi-Technology Review, ..."
+    },
+    {
+      "type": 1,
+      "Website": "http://hsayyari.blog.ir/",
+      "ref": "https://www.linkedin.com/in/hooman-sayyari-468151a3/"
+    }
+  ]
+}

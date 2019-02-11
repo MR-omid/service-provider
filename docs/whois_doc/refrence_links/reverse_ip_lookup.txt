@@ -1,0 +1,14 @@
+{
+  "results": [
+    {
+      "type": 12,
+      "properties": [
+        {
+          "type": 0,
+          "last_resolved": ""
+        }
+      ],
+      "data": ""
+    }
+  ]
+}

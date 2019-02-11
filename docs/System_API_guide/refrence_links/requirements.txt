@@ -1,0 +1,55 @@
+# extensions/google_search/googlesearch.py: 3
+Pillow == 3.1.2
+
+PyQt5 == 5.9.2
+
+# extensions/whois/whois.py: 8
+dnspython == 1.15.0
+
+# extensions/google_api/custome_googlesearch.py: 1,2
+google_api_python_client == 1.6.4
+
+# extensions/hrobot-old/dryscrape/mixins.py: 6
+# extensions/hrobot/dryscrape/mixins.py: 6
+lxml == 3.5.0
+
+# core/Database.py: 3,4
+# models/Request.py: 4
+# vendor/peewee_moves.py: 9,10,11
+peewee == 2.10.2
+
+# extensions/parser/parser.py: 3
+phonenumbers == 8.8.6
+
+# extensions/parser/parser.py: 2
+python_dateutil == 2.7.1
+
+# extensions/whois/whois.py: 9
+# vendor/captcha/captcha2upload.py: 2
+requests == 2.9.1
+
+# extensions/parser/parser.py: 8
+validate_email == 1.3
+
+# extensions/parser/parser.py: 4
+validators == 0.12.0
+
+urlextract == 0.7
+
+psutil == 5.4.5
+
+termcolor == 1.1.0
+
+psycopg2-binary == 2.7.4
+
+pycrypto == 2.6.1
+
+dill == 0.2.8.2
+
+pika == 0.12.0
+
+requests == 2.9.1
+
+colorlog == 3.1.4
+
+oauth2 == 1.9.0.post1

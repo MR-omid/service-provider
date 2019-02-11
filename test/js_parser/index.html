@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test page</title>
+</head>
+<body>
+this is test page !
+<a href="1">text 1</a>
+<a href="2">text 2</a>
+<a href="#3" id="idd">text 3</a>
+<a href="4">text 4 omid</a>
+<div id="scope">
+    <a href="indiv">indiv1</a>
+    <a href="indiv2">indiv2</a>
+</div>
+<form>
+<input>
+    </form>
+<input id="checkbox" type="checkbox">
+<div style="width: 100px; height: 100px; background: red" id="rectangle"></div> <br>
+<img src="https://picsum.photos/200/300/?random" onclick="fakeclick()">
+<!--<img src="https://picsum.photos/100/100/?image=533">-->
+<div id="cord">cordination</div>
+<script>
+    function triggerMouseEvent (node, eventType) {
+    var clickEvent = document.createEvent ('MouseEvents');
+    clickEvent.initEvent (eventType, true, true);
+    node.dispatchEvent (clickEvent);
+}
+    function fakeclick() {
+
+        targetNode = document.querySelector('#rectangle');
+        triggerMouseEvent (targetNode, "mouseover");
+        triggerMouseEvent (targetNode, "mousedown");
+        triggerMouseEvent (targetNode, "mouseup");
+        triggerMouseEvent (targetNode, "click");
+    }
+    function printMousePos(event) {
+  document.getElementById('cord').textContent =
+    "clientX: " + event.clientX +
+    " - clientY: " + event.clientY;
+}
+
+document.addEventListener("click", printMousePos);
+    document.querySelector('#rectangle').onclick = function(event) {
+    if('isTrusted' in event) {
+        if(event.isTrusted === true) {
+            console.error('clicked on by a human');
+        } else if(event.isTrusted === false) {
+            console.error('click was triggered by a script');
+        }
+    }
+};
+</script>
+</body>
+</html>

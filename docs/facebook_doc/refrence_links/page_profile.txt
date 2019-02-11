@@ -1,0 +1,89 @@
+{
+  "results": [],
+  "special_properties": [
+    {
+      "sub_type": 1,
+      "type": 0
+    },
+    {
+      "is_page": true,
+      "type": 0
+    },
+    {
+      "is_verified": true,
+      "type": 0
+    },
+    {
+      "address": "",
+      "type": 8
+    },
+    {
+      "phone_number": "",
+      "type": 4
+    },
+    {
+      "type": 0,
+      "redirected_to": "https://mbasic.facebook.com/neymarjr"
+    },
+    {
+      "name": "Neymar Jr.",
+      "type": 11
+    },
+    {
+      "alias": "neymarjr",
+      "type": 0
+    },
+    {
+      "type": 1,
+      "redirecred_from": "mbasic.facebook.com/neymarjr"
+    },
+    {
+      "about": [
+        "Typically replies instantly",
+        "Send Message",
+        "Impressum",
+        ""
+      ],
+      "type": 0
+    }
+  ],
+  "properties": [
+    {
+      "more": {
+        "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/38120028_1890413360994338_4406100884749025280_n.jpg?_nc_cat=1&efg=eyJpIjoiYiJ9&_nc_ht=scontent-ort2-1.xx&oh=b8e87d6c28847b18502c478dab0592bd&oe=5C535EDC",
+        "ref": "mbasic.facebook.com/neymarjr",
+        "file_name": "d41d8cd98f00b204e9800998ecf8427e1a15dbbd55824b9723408c0f074070a4"
+      },
+      "type": 13,
+      "image_profile": "/home/dpe/F.SystemAPI.01//modules/storage/72948b291b4841029f18d33163abc228/d41d8cd98f00b204e9800998ecf8427e1a15dbbd55824b9723408c0f074070a4.jpg"
+    },
+    {
+      "more": {
+        "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/41542246_1948018285233845_6835977713338023936_n.jpg?_nc_cat=105&efg=eyJpIjoiYiJ9&_nc_ht=scontent-ort2-1.xx&oh=13ec3652dcd731dbdbda20061ffc9d64&oe=5C414974",
+        "ref": "mbasic.facebook.com/neymarjr",
+        "file_name": "d41d8cd98f00b204e9800998ecf8427ee47abf258c63f251133afb81343cea8b"
+      },
+      "type": 13,
+      "cover_photo": "/home/dpe/F.SystemAPI.01//modules/storage/72948b291b4841029f18d33163abc228/d41d8cd98f00b204e9800998ecf8427ee47abf258c63f251133afb81343cea8b.jpg"
+    },
+    {
+      "cover_photo_thumbnail": "/home/dpe/F.SystemAPI.01//modules/storage/72948b291b4841029f18d33163abc228/thumbnail/d41d8cd98f00b204e9800998ecf8427ee47abf258c63f251133afb81343cea8b.jpg",
+      "more": {
+        "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/41542246_1948018285233845_6835977713338023936_n.jpg?_nc_cat=105&efg=eyJpIjoiYiJ9&_nc_ht=scontent-ort2-1.xx&oh=13ec3652dcd731dbdbda20061ffc9d64&oe=5C414974",
+        "ref": "mbasic.facebook.com/neymarjr",
+        "file_name": "d41d8cd98f00b204e9800998ecf8427ee47abf258c63f251133afb81343cea8b"
+      },
+      "type": 13
+    },
+    {
+      "image_profile_thumbnail": "/home/dpe/F.SystemAPI.01//modules/storage/72948b291b4841029f18d33163abc228/thumbnail/d41d8cd98f00b204e9800998ecf8427e1a15dbbd55824b9723408c0f074070a4.jpg",
+      "more": {
+        "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/fr/cp0/e15/q65/38120028_1890413360994338_4406100884749025280_n.jpg?_nc_cat=1&efg=eyJpIjoiYiJ9&_nc_ht=scontent-ort2-1.xx&oh=b8e87d6c28847b18502c478dab0592bd&oe=5C535EDC",
+        "ref": "mbasic.facebook.com/neymarjr",
+        "file_name": "d41d8cd98f00b204e9800998ecf8427e1a15dbbd55824b9723408c0f074070a4"
+      },
+      "type": 13
+    }
+  ],
+  "has_media": true
+}

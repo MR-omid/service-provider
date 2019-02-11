@@ -1,0 +1,212 @@
+[
+  {
+    'data': '/search?q=trump&hl=en&gbv=2&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ved=0ahUKEwiX5fKzgtXZAhWEmVkKHTMaDk0QqAIIFA',
+    'type': '1',
+    'properties': {
+      'title': 'News for trump'
+    }
+  },
+  {
+    'data': ' https://twitter.com/realdonaldtrump&sa=U&ved=0ahUKEwiX5fKzgtXZAhWEmVkKHTMaDk0QFggdMAM&usg=AOvVaw09N2jAEg5y8OU_4otWaTxM',
+    'type': '1',
+    'properties': {
+      'title': 'Donald J. Trump (@realDonaldTrump) | Twitter'
+    }
+  },
+  {
+    'data': ' https://twitter.com/hashtag/trump&sa=U&ved=0ahUKEwiX5fKzgtXZAhWEmVkKHTMaDk0QFggjMAQ&usg=AOvVaw1LhQypAvX_dBQZ8NXuhD8P',
+    'type': '1',
+    'properties': {
+      'title': 'News about #trump on Twitter'
+    }
+  },
+  {
+    'data': ' https://www.nbcnews.com/politics/white-house/special-counsel-wants-documents-trump-numerous-campaign-associates-n853386&sa=U&ved=0ahUKEwiX5fKzgtXZAhWEmVkKHTMaDk0QFggpMAU&usg=AOvVaw1efGcZp0TpsJYcvE9RuZ63',
+    'type': '1',
+    'properties': {
+      'title': 'Special counsel wants documents on Trump, numerous campaign ...'
+    }
+  },
+  {
+    'data': ' https://www.politico.com/story/2018/03/04/donald-trump-public-private-presidency-435491&sa=U&ved=0ahUKEwiX5fKzgtXZAhWEmVkKHTMaDk0QFggvMAY&usg=AOvVaw1V5g80Cb9_uSXMhDtvff6B',
+    'type': '1',
+    'properties': {
+      'title': "Donald Trump's bubble presidency - POLITICO"
+    }
+  },
+  {
+    'data': ' http://www.donaldjtrump.com/&sa=U&ved=0ahUKEwiX5fKzgtXZAhWEmVkKHTMaDk0QFgg1MAc&usg=AOvVaw0pM9PmHOkEKYjSTwKCBIqw',
+    'type': '1',
+    'properties': {
+      'title': 'Donald J Trump: Home'
+    }
+  },
+  {
+    'data': ' https://www.cnbc.com/donald-trump/&sa=U&ved=0ahUKEwiX5fKzgtXZAhWEmVkKHTMaDk0QFgg6MAg&usg=AOvVaw3-gspjpTcpKEyRGkB8UMGV',
+    'type': '1',
+    'properties': {
+      'title': 'Donald Trump - CNBC - CNBC.com'
+    }
+  },
+  {
+    'data': ' https://www.nytimes.com/2018/03/04/opinion/trump-democracy-problem.html&sa=U&ved=0ahUKEwiX5fKzgtXZAhWEmVkKHTMaDk0QFgg_MAk&usg=AOvVaw29stVz36bV9XWkAA9kycqA',
+    'type': '1',
+    'properties': {
+      'title': 'Donald Trump Sure Has a Problem with Democracy - The New York ...'
+    }
+  },
+  {
+    'data': ' https://en.wikipedia.org/wiki/Donald_Trump&sa=U&ved=0ahUKEwiX5fKzgtXZAhWEmVkKHTMaDk0QFghCMAo&usg=AOvVaw2wjmkbXSgDefRvz7wconr_',
+    'type': '1',
+    'properties': {
+      'title': 'Donald Trump - Wikipedia'
+    }
+  },
+  {
+    'data': ' https://www.washingtonpost.com/news/arts-and-entertainment/wp/2018/03/04/snl-usually-avoids-parodying-tragedy-then-trump-said-hed-confront-a-school-shooter-unarmed/&sa=U&ved=0ahUKEwiX5fKzgtXZAhWEmVkKHTMaDk0QFghHMAs&usg=AOvVaw3r0gDzdcd1vFblMZMclyiG',
+    'type': '1',
+    'properties': {
+      'title': "Alec Baldwin's Trump on 'SNL': Show usually avoids parodying ..."
+    }
+  },
+  {
+    'data': ' https://www.cnn.com/2018/03/05/politics/trump-remaking-law-in-his-own-image/index.html&sa=U&ved=0ahUKEwip3NC1gtXZAhXspVkKHW0kCY04ChAWCBQwAA&usg=AOvVaw1pbRygMp93YnNySQ4s-vvI',
+    'type': '1',
+    'properties': {
+      'title': 'Donald Trump is remaking the law in his own image - CNNPolitics'
+    }
+  },
+  {
+    'data': ' https://www.theatlantic.com/international/archive/2018/03/trump-xi-jinping-dictators/554810/&sa=U&ved=0ahUKEwip3NC1gtXZAhXspVkKHW0kCY04ChAWCBowAQ&usg=AOvVaw1hgS2WgTr325pgh0spR_XV',
+    'type': '1',
+    'properties': {
+      'title': "Donald Trump's 9 Shout-Outs to Notorious Dictators - The Atlantic"
+    }
+  },
+  {
+    'data': ' https://www.theatlantic.com/health/archive/2018/01/trump-cog-decline/548759/&sa=U&ved=0ahUKEwip3NC1gtXZAhXspVkKHW0kCY04ChAWCCAwAg&usg=AOvVaw0okKerDS0AgbA178ViB_rM',
+    'type': '1',
+    'properties': {
+      'title': 'Is There Something Neurologically Wrong With Donald Trump ...'
+    }
+  },
+  {
+    'data': ' http://thehill.com/people/donald-trump&sa=U&ved=0ahUKEwip3NC1gtXZAhXspVkKHW0kCY04ChAWCCYwAw&usg=AOvVaw2Xi2KPONzJ_L7P4x0W-1W3',
+    'type': '1',
+    'properties': {
+      'title': 'Donald John Trump | TheHill'
+    }
+  },
+  {
+    'data': ' http://www.chicagotribune.com/topic/politics-government/donald-trump-PEBSL000163-topic.html&sa=U&ved=0ahUKEwip3NC1gtXZAhXspVkKHW0kCY04ChAWCCwwBA&usg=AOvVaw3eSNDQXs2CYzbyLbGhA2Ps',
+    'type': '1',
+    'properties': {
+      'title': 'Donald Trump Articles, Photos, and Videos - Chicago Tribune'
+    }
+  },
+  {
+    'data': ' https://www.facebook.com/DonaldTrump/&sa=U&ved=0ahUKEwip3NC1gtXZAhXspVkKHW0kCY04ChAWCDMwBQ&usg=AOvVaw0wKoRW4kRhSXOaWXxvh29J',
+    'type': '1',
+    'properties': {
+      'title': 'Donald J. Trump - Home | Facebook'
+    }
+  },
+  {
+    'data': ' https://www.washingtontimes.com/topics/donald-trump/&sa=U&ved=0ahUKEwip3NC1gtXZAhXspVkKHW0kCY04ChAWCDgwBg&usg=AOvVaw0T1W3G_Gb2AC-lQGAzWQwk',
+    'type': '1',
+    'properties': {
+      'title': 'Donald Trump - Bio, News, Photos - Washington Times'
+    }
+  },
+  {
+    'data': ' http://www.latimes.com/topic/politics-government/donald-trump-PEBSL000163-topic.html&sa=U&ved=0ahUKEwip3NC1gtXZAhXspVkKHW0kCY04ChAWCD0wBw&usg=AOvVaw1OJ6ja0wI2cpiGh3VPkl5Q',
+    'type': '1',
+    'properties': {
+      'title': 'Donald Trump - Los Angeles Times'
+    }
+  },
+  {
+    'data': ' https://www.aljazeera.com/topics/people/donald-trump.html&sa=U&ved=0ahUKEwip3NC1gtXZAhXspVkKHW0kCY04ChAWCEMwCA&usg=AOvVaw2BaXLXNZIoFuoJm-yxm67e',
+    'type': '1',
+    'properties': {
+      'title': 'Donald Trump News – the latest from Al Jazeera'
+    }
+  },
+  {
+    'data': ' https://www.thedailybeast.com/mueller-subpoenas-communications-with-trump-and-inner-circle&sa=U&ved=0ahUKEwip3NC1gtXZAhXspVkKHW0kCY04ChAWCEgwCQ&usg=AOvVaw3KrLEQN4SHmb-P71UhdcRs',
+    'type': '1',
+    'properties': {
+      'title': 'Mueller Subpoenas Communications With Trump and Inner Circle ...'
+    }
+  },
+  {
+    'data': ' http://www.dailymail.co.uk/news/donald_trump/index.html&sa=U&ved=0ahUKEwjhqcS2gtXZAhUBpFkKHa54AxU4FBAWCBQwAA&usg=AOvVaw3qLWXyEC5kk0auJeGa0Pes',
+    'type': '1',
+    'properties': {
+      'title': 'Trump News, Twitter Updates and Latest Headlines | Daily Mail Online'
+    }
+  },
+  {
+    'data': ' http://deadline.com/tag/donald-trump/&sa=U&ved=0ahUKEwjhqcS2gtXZAhUBpFkKHa54AxU4FBAWCBkwAQ&usg=AOvVaw17_ofcJU13D3PbPsYo_Fr5',
+    'type': '1',
+    'properties': {
+      'title': 'Donald Trump | Deadline'
+    }
+  },
+  {
+    'data': ' https://www.npr.org/sections/thetwo-way/2018/03/04/590660482/at-gridiron-dinner-trump-trades-jabs-with-his-opposition-party&sa=U&ved=0ahUKEwjhqcS2gtXZAhUBpFkKHa54AxU4FBAWCB8wAg&usg=AOvVaw0A3l-QmtH87Ui8obxmmR59',
+    'type': '1',
+    'properties': {
+      'title': "At Gridiron Dinner, Trump Trades Jabs With His 'Opposition Party ..."
+    }
+  },
+  {
+    'data': ' https://www.newyorker.com/news/daily-comment/donald-trumps-know-nothing-science-budget&sa=U&ved=0ahUKEwjhqcS2gtXZAhUBpFkKHa54AxU4FBAWCCIwAw&usg=AOvVaw1Exy-nvpi3bnLFof6nkabv',
+    'type': '1',
+    'properties': {
+      'title': "Donald Trump's Know-Nothing Science Budget | The New Yorker"
+    }
+  },
+  {
+    'data': ' https://nypost.com/2018/03/04/trump-trying-to-have-it-both-ways-in-gun-debate-senator/&sa=U&ved=0ahUKEwjhqcS2gtXZAhUBpFkKHa54AxU4FBAWCCgwBA&usg=AOvVaw2n6C2AW2ZrfHcC6nnyDN1Q',
+    'type': '1',
+    'properties': {
+      'title': "Trump 'trying to have it both ways' in gun debate: senator | New York ..."
+    }
+  },
+  {
+    'data': ' https://www.bloomberg.com/billionaires/profiles/donald-j-trump/&sa=U&ved=0ahUKEwjhqcS2gtXZAhUBpFkKHa54AxU4FBAWCC4wBQ&usg=AOvVaw2RDuifkVirRO3_ays_vCAt',
+    'type': '1',
+    'properties': {
+      'title': 'Bloomberg Billionaires Index - Donald Trump'
+    }
+  },
+  {
+    'data': ' https://www.whitehouse.gov/people/donald-j-trump/&sa=U&ved=0ahUKEwjhqcS2gtXZAhUBpFkKHa54AxU4FBAWCDQwBg&usg=AOvVaw0uptbv42qpd3Al25b_n7cv',
+    'type': '1',
+    'properties': {
+      'title': 'Donald J. Trump - WhiteHouse.gov'
+    }
+  },
+  {
+    'data': ' http://time.com/5184524/trump-china-president-for-life/&sa=U&ved=0ahUKEwjhqcS2gtXZAhUBpFkKHa54AxU4FBAWCDkwBw&usg=AOvVaw1g8B-n-b_MwMosmHBJWClz',
+    'type': '1',
+    'properties': {
+      'title': "Trump: U.S. May Give Having President for Life 'A Shot Someday ..."
+    }
+  },
+  {
+    'data': ' http://www.bbc.com/news/world-asia-china-43278458&sa=U&ved=0ahUKEwjhqcS2gtXZAhUBpFkKHa54AxU4FBAWCD8wCA&usg=AOvVaw1r1ECT6TlIQaCoeJOOV_vx',
+    'type': '1',
+    'properties': {
+      'title': 'Trump trade war: China vows retaliation if tariffs bite - BBC News'
+    }
+  },
+  {
+    'data': ' https://slate.com/news-and-politics/2018/03/trump-actually-told-some-funny-jokes-at-the-gridiron-dinnerbut-then-things-got-weird.html&sa=U&ved=0ahUKEwjhqcS2gtXZAhUBpFkKHa54AxU4FBAWCEUwCQ&usg=AOvVaw3LEtPzoUKf-mP_qcn2MqFB',
+    'type': '1',
+    'properties': {
+      'title': 'Trump actually told some funny jokes at the Gridiron Dinner—but ...'
+    }
+  }
+]

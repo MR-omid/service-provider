@@ -1,0 +1,143 @@
+---------------START---------------
+14:21:50
+123456
+abcd
+Found.But this is a payment record. Purchase
+qazx
+uhgf
+Found.But this is a payment record. Purchase
+Found.But this is a payment record. Purchase
+123456
+abcd
+Found.But this is a payment record. Purchase
+qazx
+uhgf
+Found.But this is a payment record. Purchase
+Found.But this is a payment record. Purchase
+123456
+abcd
+Found.But this is a payment record. Purchase
+qazx
+uhgf
+Found.But this is a payment record. Purchase
+Found.But this is a payment record. Purchase
+123456
+abcd
+Found.But this is a payment record. Purchase
+qazx
+uhgf
+Found.But this is a payment record. Purchase
+Found.But this is a payment record. Purchase
+123456
+abcd
+Found.But this is a payment record. Purchase
+qazx
+uhgf
+Found.But this is a payment record. Purchase
+Found.But this is a payment record. Purchase
+123456
+abcd
+Found.But this is a payment record. Purchase
+qazx
+uhgf
+Found.But this is a payment record. Purchase
+Found.But this is a payment record. Purchase
+123456
+abcd
+Found.But this is a payment record. Purchase
+qazx
+uhgf
+Found.But this is a payment record. Purchase
+Found.But this is a payment record. Purchase
+123456
+abcd
+Found.But this is a payment record. Purchase
+qazx
+uhgf
+Found.But this is a payment record. Purchase
+Found.But this is a payment record. Purchase
+123456
+abcd
+Found.But this is a payment record. Purchase
+qazx
+uhgf
+Found.But this is a payment record. Purchase
+Found.But this is a payment record. Purchase
+123456
+abcd
+Found.But this is a payment record. Purchase
+qazx
+uhgf
+Found.But this is a payment record. Purchase
+Found.But this is a payment record. Purchase
+123456
+abcd
+Found.But this is a payment record. Purchase
+qazx
+uhgf
+Found.But this is a payment record. Purchase
+Found.But this is a payment record. Purchase
+123456
+abcd
+Found.But this is a payment record. Purchase
+qazx
+uhgf
+Found.But this is a payment record. Purchase
+Found.But this is a payment record. Purchase
+123456
+abcd
+Found.But this is a payment record. Purchase
+qazx
+uhgf
+Found.But this is a payment record. Purchase
+Found.But this is a payment record. Purchase
+123456
+abcd
+Found.But this is a payment record. Purchase
+qazx
+uhgf
+Found.But this is a payment record. Purchase
+Found.But this is a payment record. Purchase
+123456
+abcd
+14:39:53
+---------------END---------------
+---------------START---------------
+09:29:31
+123456
+abcd
+Found.But this is a payment record. Purchase
+qazx
+uhgf
+---------------START---------------
+09:32:38
+123456
+abcd
+qazx
+uhgf
+123456
+abcd
+qazx
+uhgf
+123456
+abcd
+---------------START---------------
+10:24:15
+---------------START---------------
+10:27:43
+---------------START---------------
+10:28:53
+---------------START---------------
+10:30:09
+---------------START---------------
+11:36:11
+11:36:28
+---------------END---------------
+---------------START---------------
+12:37:41
+12:37:58
+---------------END---------------
+---------------START---------------
+12:39:19
+12:39:28
+---------------END---------------

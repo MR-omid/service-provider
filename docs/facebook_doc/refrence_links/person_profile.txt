@@ -1,0 +1,371 @@
+{
+  "results": [
+    {
+      "special_properties": [
+        {
+          "sub_type": 1,
+          "type": 0
+        },
+        {
+          "type": 0,
+          "kinship": "Younger brother"
+        }
+      ],
+      "properties": [
+        {
+          "name": "Brindel Gokil",
+          "type": 11
+        },
+        {
+          "more": {
+            "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-1/cp0/e15/q65/c4.4.48.48/p56x56/385507_114495255337063_615045844_n.jpg?_nc_cat=103&efg=eyJpIjoiYiJ9&_nc_ht=scontent-ort2-1.xx&oh=116f8cdf676a75f126b020433534b0a6&oe=5C3E8F90",
+            "ref": "mbasic.facebook.com/brindel.gokil",
+            "file_name": "567a59d5cb540acfee92d68e0645281251fb106792ad9fccddcdecbc12c6a85a"
+          },
+          "type": 13,
+          "image_profile": "/home/dpe/F.SystemAPI.01//modules/storage/25f2158086ef4e1e85cc575495a0cdd6/567a59d5cb540acfee92d68e0645281251fb106792ad9fccddcdecbc12c6a85a.jpg"
+        },
+        {
+          "image_profile_thumbnail": "/home/dpe/F.SystemAPI.01//modules/storage/25f2158086ef4e1e85cc575495a0cdd6/thumbnail/567a59d5cb540acfee92d68e0645281251fb106792ad9fccddcdecbc12c6a85a.jpg",
+          "more": {
+            "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-1/cp0/e15/q65/c4.4.48.48/p56x56/385507_114495255337063_615045844_n.jpg?_nc_cat=103&efg=eyJpIjoiYiJ9&_nc_ht=scontent-ort2-1.xx&oh=116f8cdf676a75f126b020433534b0a6&oe=5C3E8F90",
+            "ref": "mbasic.facebook.com/brindel.gokil",
+            "file_name": "567a59d5cb540acfee92d68e0645281251fb106792ad9fccddcdecbc12c6a85a"
+          },
+          "type": 13
+        }
+      ],
+      "data": "brindel.gokil",
+      "type": 5,
+      "ref": {
+        "facebook_account": "pungki.hermawan.3",
+        "section": "kinship",
+        "task": "facebook_profile"
+      }
+    },
+    {
+      "special_properties": [
+        {
+          "sub_type": 1,
+          "type": 0
+        },
+        {
+          "type": 0,
+          "kinship": "Older brother"
+        }
+      ],
+      "properties": [
+        {
+          "name": "Ronal Budi",
+          "type": 11
+        },
+        {
+          "more": {
+            "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-1/cp0/e15/q65/c4.4.48.48/p56x56/395822_258675680876940_332300487_n.jpg?_nc_cat=103&efg=eyJpIjoiYiJ9&_nc_ht=scontent-ort2-1.xx&oh=c7c32ec77b986bd6814b243c3a57eb1f&oe=5C88CD77",
+            "ref": "mbasic.facebook.com/ville.sembilan",
+            "file_name": "5842ce92978a9db2a98645cf7be85943fb89565ff442f884e73a94a023e757eb"
+          },
+          "type": 13,
+          "image_profile": "/home/dpe/F.SystemAPI.01//modules/storage/25f2158086ef4e1e85cc575495a0cdd6/5842ce92978a9db2a98645cf7be85943fb89565ff442f884e73a94a023e757eb.jpg"
+        },
+        {
+          "image_profile_thumbnail": "/home/dpe/F.SystemAPI.01//modules/storage/25f2158086ef4e1e85cc575495a0cdd6/thumbnail/5842ce92978a9db2a98645cf7be85943fb89565ff442f884e73a94a023e757eb.jpg",
+          "more": {
+            "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-1/cp0/e15/q65/c4.4.48.48/p56x56/395822_258675680876940_332300487_n.jpg?_nc_cat=103&efg=eyJpIjoiYiJ9&_nc_ht=scontent-ort2-1.xx&oh=c7c32ec77b986bd6814b243c3a57eb1f&oe=5C88CD77",
+            "ref": "mbasic.facebook.com/ville.sembilan",
+            "file_name": "5842ce92978a9db2a98645cf7be85943fb89565ff442f884e73a94a023e757eb"
+          },
+          "type": 13
+        }
+      ],
+      "data": "ville.sembilan",
+      "type": 5,
+      "ref": {
+        "facebook_account": "pungki.hermawan.3",
+        "section": "kinship",
+        "task": "facebook_profile"
+      }
+    },
+    {
+      "special_properties": [
+        {
+          "sub_type": 1,
+          "type": 0
+        },
+        {
+          "type": 0,
+          "kinship": "Younger brother"
+        }
+      ],
+      "properties": [
+        {
+          "name": "Ari Mustofa Kamal",
+          "type": 11
+        },
+        {
+          "more": {
+            "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-1/cp0/e15/q65/p48x48/40424733_1745793735518931_8152505702049382400_n.jpg?_nc_cat=107&efg=eyJpIjoiYiJ9&_nc_ht=scontent-ort2-1.xx&oh=0bd119fcab844936734a333965daacf5&oe=5C47CAD6",
+            "ref": "mbasic.facebook.com/tofa.t.wis",
+            "file_name": "afca3c869e2eaff53b9723b44011e6e97c7b126ccb3da1cb6af04a2e999f583d"
+          },
+          "type": 13,
+          "image_profile": "/home/dpe/F.SystemAPI.01//modules/storage/25f2158086ef4e1e85cc575495a0cdd6/afca3c869e2eaff53b9723b44011e6e97c7b126ccb3da1cb6af04a2e999f583d.jpg"
+        },
+        {
+          "image_profile_thumbnail": "/home/dpe/F.SystemAPI.01//modules/storage/25f2158086ef4e1e85cc575495a0cdd6/thumbnail/afca3c869e2eaff53b9723b44011e6e97c7b126ccb3da1cb6af04a2e999f583d.jpg",
+          "more": {
+            "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-1/cp0/e15/q65/p48x48/40424733_1745793735518931_8152505702049382400_n.jpg?_nc_cat=107&efg=eyJpIjoiYiJ9&_nc_ht=scontent-ort2-1.xx&oh=0bd119fcab844936734a333965daacf5&oe=5C47CAD6",
+            "ref": "mbasic.facebook.com/tofa.t.wis",
+            "file_name": "afca3c869e2eaff53b9723b44011e6e97c7b126ccb3da1cb6af04a2e999f583d"
+          },
+          "type": 13
+        }
+      ],
+      "data": "tofa.t.wis",
+      "type": 5,
+      "ref": {
+        "facebook_account": "pungki.hermawan.3",
+        "section": "kinship",
+        "task": "facebook_profile"
+      }
+    },
+    {
+      "special_properties": [
+        {
+          "sub_type": 1,
+          "type": 0
+        },
+        {
+          "type": 0,
+          "kinship": "Cousin"
+        }
+      ],
+      "properties": [
+        {
+          "name": "Sedang Bernafas",
+          "type": 11
+        },
+        {
+          "more": {
+            "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-1/cp0/e15/q65/c0.0.48.48/p48x48/32290670_868836213323750_5859580704626573312_n.jpg?_nc_cat=107&efg=eyJpIjoiYiJ9&_nc_ht=scontent-ort2-1.xx&oh=4e9431b8bbf9c13225fabffc10e15e7f&oe=5C59ABC3",
+            "ref": "mbasic.facebook.com/tian.gogejk",
+            "file_name": "b8edd3f18b59ca863a715e3c82eda822c571318b9621690243b0b6350f075867"
+          },
+          "type": 13,
+          "image_profile": "/home/dpe/F.SystemAPI.01//modules/storage/25f2158086ef4e1e85cc575495a0cdd6/b8edd3f18b59ca863a715e3c82eda822c571318b9621690243b0b6350f075867.jpg"
+        },
+        {
+          "image_profile_thumbnail": "/home/dpe/F.SystemAPI.01//modules/storage/25f2158086ef4e1e85cc575495a0cdd6/thumbnail/b8edd3f18b59ca863a715e3c82eda822c571318b9621690243b0b6350f075867.jpg",
+          "more": {
+            "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-1/cp0/e15/q65/c0.0.48.48/p48x48/32290670_868836213323750_5859580704626573312_n.jpg?_nc_cat=107&efg=eyJpIjoiYiJ9&_nc_ht=scontent-ort2-1.xx&oh=4e9431b8bbf9c13225fabffc10e15e7f&oe=5C59ABC3",
+            "ref": "mbasic.facebook.com/tian.gogejk",
+            "file_name": "b8edd3f18b59ca863a715e3c82eda822c571318b9621690243b0b6350f075867"
+          },
+          "type": 13
+        }
+      ],
+      "data": "tian.gogejk",
+      "type": 5,
+      "ref": {
+        "facebook_account": "pungki.hermawan.3",
+        "section": "kinship",
+        "task": "facebook_profile"
+      }
+    },
+    {
+      "special_properties": [
+        {
+          "sub_type": 1,
+          "type": 0
+        },
+        {
+          "type": 0,
+          "kinship": "Nephew"
+        }
+      ],
+      "properties": [
+        {
+          "name": "Mbah Tembol",
+          "type": 11
+        },
+        {
+          "more": {
+            "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-1/cp0/e15/q65/c4.0.48.48/p48x48/13315452_1641788022810638_720273005301676034_n.jpg?_nc_cat=105&efg=eyJpIjoiYiJ9&_nc_ht=scontent-ort2-1.xx&oh=dd3bf0e73cd61a1484bcd6e9e52cf9c8&oe=5C54C760",
+            "ref": "mbasic.facebook.com/ltianraharjo.ltianraharjo",
+            "file_name": "bd4919ddc046c331e53915eddf0d02be39c0307957214477c45831b0fbe24656"
+          },
+          "type": 13,
+          "image_profile": "/home/dpe/F.SystemAPI.01//modules/storage/25f2158086ef4e1e85cc575495a0cdd6/bd4919ddc046c331e53915eddf0d02be39c0307957214477c45831b0fbe24656.jpg"
+        },
+        {
+          "image_profile_thumbnail": "/home/dpe/F.SystemAPI.01//modules/storage/25f2158086ef4e1e85cc575495a0cdd6/thumbnail/bd4919ddc046c331e53915eddf0d02be39c0307957214477c45831b0fbe24656.jpg",
+          "more": {
+            "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-1/cp0/e15/q65/c4.0.48.48/p48x48/13315452_1641788022810638_720273005301676034_n.jpg?_nc_cat=105&efg=eyJpIjoiYiJ9&_nc_ht=scontent-ort2-1.xx&oh=dd3bf0e73cd61a1484bcd6e9e52cf9c8&oe=5C54C760",
+            "ref": "mbasic.facebook.com/ltianraharjo.ltianraharjo",
+            "file_name": "bd4919ddc046c331e53915eddf0d02be39c0307957214477c45831b0fbe24656"
+          },
+          "type": 13
+        }
+      ],
+      "data": "ltianraharjo.ltianraharjo",
+      "type": 5,
+      "ref": {
+        "facebook_account": "pungki.hermawan.3",
+        "section": "kinship",
+        "task": "facebook_profile"
+      }
+    },
+    {
+      "data": "Pungki Lor Pasar",
+      "type": 11,
+      "ref": {
+        "facebook_account": "pungki.hermawan.3",
+        "section": "real_name",
+        "task": "facebook_profile"
+      }
+    },
+    {
+      "properties": {
+        "type": "Current City",
+        "profile_id": "/profile.php?id=104055736298447"
+      },
+      "data": "Lumajang",
+      "type": 8,
+      "ref": {
+        "facebook_account": "pungki.hermawan.3",
+        "section": "places_lived",
+        "task": "facebook_profile"
+      }
+    },
+    {
+      "properties": {
+        "type": "Hometown",
+        "profile_id": "/profile.php?id=104689886236934"
+      },
+      "data": "Malang, Sulawesi Selatan, Indonesia",
+      "type": 8,
+      "ref": {
+        "facebook_account": "pungki.hermawan.3",
+        "section": "places_lived",
+        "task": "facebook_profile"
+      }
+    }
+  ],
+  "special_properties": [
+    {
+      "type": 0,
+      "language": ""
+    },
+    {
+      "gender": "Male",
+      "type": 0
+    },
+    {
+      "birthday": "",
+      "type": 0
+    },
+    {
+      "intrested_in": "",
+      "type": 0
+    },
+    {
+      "is_verified": false,
+      "type": 0
+    },
+    {
+      "sub_type": 1,
+      "type": 0
+    },
+    {
+      "is_page": false,
+      "type": 0
+    },
+    {
+      "type": 1,
+      "redirected_from": "https://mbasic.facebook.com/pungki.hermawan.3"
+    },
+    {
+      "redirected": "https://mbasic.facebook.com/pungki.hermawan.3/about",
+      "type": 1
+    }
+  ],
+  "properties": [
+    {
+      "about": "",
+      "type": 0
+    },
+    {
+      "name": "Pungki Lor Pasar",
+      "type": 11
+    },
+    {
+      "more": {
+        "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-0/cp0/e15/q65/s320x320/28059261_1809449682409189_2512516473608311780_n.jpg?_nc_cat=100&_nc_ht=scontent-ort2-1.xx&oh=987922156a1fd67997797012066b958a&oe=5C4A2BB9",
+        "ref": "https://mbasic.facebook.com/pungki.hermawan.3",
+        "file_name": "6911c4527a0fbe86cc2ed1f1b7c0e05b95ec315a6cb226c820f9e2a5d865ed32"
+      },
+      "type": 13,
+      "image_profile": "/home/dpe/F.SystemAPI.01//modules/storage/25f2158086ef4e1e85cc575495a0cdd6/6911c4527a0fbe86cc2ed1f1b7c0e05b95ec315a6cb226c820f9e2a5d865ed32.jpg"
+    },
+    {
+      "image_profile_thumbnail": "/home/dpe/F.SystemAPI.01//modules/storage/25f2158086ef4e1e85cc575495a0cdd6/thumbnail/6911c4527a0fbe86cc2ed1f1b7c0e05b95ec315a6cb226c820f9e2a5d865ed32.jpg",
+      "more": {
+        "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-0/cp0/e15/q65/s320x320/28059261_1809449682409189_2512516473608311780_n.jpg?_nc_cat=100&_nc_ht=scontent-ort2-1.xx&oh=987922156a1fd67997797012066b958a&oe=5C4A2BB9",
+        "ref": "https://mbasic.facebook.com/pungki.hermawan.3",
+        "file_name": "6911c4527a0fbe86cc2ed1f1b7c0e05b95ec315a6cb226c820f9e2a5d865ed32"
+      },
+      "type": 13
+    },
+    {
+      "more": {
+        "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-0/cp0/e15/q65/p320x320/27540109_1791877290833095_8192931542700637002_n.jpg?_nc_cat=110&_nc_ht=scontent-ort2-1.xx&oh=b9d53a3416b682511b25541a043bc552&oe=5C44D434",
+        "ref": "https://mbasic.facebook.com/pungki.hermawan.3",
+        "file_name": "6911c4527a0fbe86cc2ed1f1b7c0e05b6a09e8561647037692d3e295113dfd76"
+      },
+      "type": 13,
+      "cover_photo": "/home/dpe/F.SystemAPI.01//modules/storage/25f2158086ef4e1e85cc575495a0cdd6/6911c4527a0fbe86cc2ed1f1b7c0e05b6a09e8561647037692d3e295113dfd76.jpg"
+    },
+    {
+      "cover_photo_thumbnail": "/home/dpe/F.SystemAPI.01//modules/storage/25f2158086ef4e1e85cc575495a0cdd6/thumbnail/6911c4527a0fbe86cc2ed1f1b7c0e05b6a09e8561647037692d3e295113dfd76.jpg",
+      "more": {
+        "url": "https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-0/cp0/e15/q65/p320x320/27540109_1791877290833095_8192931542700637002_n.jpg?_nc_cat=110&_nc_ht=scontent-ort2-1.xx&oh=b9d53a3416b682511b25541a043bc552&oe=5C44D434",
+        "ref": "https://mbasic.facebook.com/pungki.hermawan.3",
+        "file_name": "6911c4527a0fbe86cc2ed1f1b7c0e05b6a09e8561647037692d3e295113dfd76"
+      },
+      "type": 13
+    },
+    {
+      "other_info": [
+        {
+          "more": {},
+          "info": "Lives in Lumajang\n"
+        },
+        {
+          "more": {},
+          "info": "From Malang, Sulawesi Selatan, Indonesia\n"
+        }
+      ],
+      "type": 0
+    },
+    {
+      "places_lived": [
+        {
+          "more": {
+            "type": "Current City",
+            "profile_id": "/profile.php?id=104055736298447"
+          },
+          "title": "Lumajang"
+        },
+        {
+          "more": {
+            "type": "Hometown",
+            "profile_id": "/profile.php?id=104689886236934"
+          },
+          "title": "Malang, Sulawesi Selatan, Indonesia"
+        }
+      ],
+      "type": 11
+    }
+  ],
+  "has_media": true
+}
